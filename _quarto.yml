@@ -8,10 +8,11 @@ website:
   # site-url:
   # repo-url:
   search: true
-  navbar:
+  sidebar:
+    style: "docked"
     search: true
     background: primary
-    left:
+    contents:
       - href: index.qmd
         text: Home
       - about.qmd
