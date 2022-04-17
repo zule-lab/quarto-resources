@@ -1,0 +1,6 @@
+---
+title: "Books"
+listing:
+  contents: books
+  type: table
+---
