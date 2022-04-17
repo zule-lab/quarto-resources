@@ -18,7 +18,7 @@ website:
       - about.qmd
       - listing-topics.qmd
       - listing-books.qmd
-    # right:
+    # tools:
     #   - icon: github
     #     href: https://github.com path
     # page-footer:
