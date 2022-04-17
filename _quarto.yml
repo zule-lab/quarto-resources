@@ -15,6 +15,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - listing-topics.qmd
+      - listing-books.qmd
+    # right:
+    #   - icon: github
+    #     href: https://github.com path
+    # page-footer:
+    #   center:
+    #     - text: "About"
+    #       href: about.qmd
+    #     - text: "License"
+    #       href: license.qmd
 
 format:
   html:
