@@ -1,14 +1,8 @@
-# Trees projects
+# Trees project
 
-[Trees-In-Canada] lists x, y, z about trees. 
+[Trees-In-Canada](../books/Trees-In-Canada.md) lists x, y, z about trees. 
 
-@Trees-In-Canada
 
-[books/Trees-In-Canada]
-
-[Trees-In-Canada](../books/Trees-In-Canada.md)
-
-[Trees-In-Canada](books/Trees-In-Canada.md)
 
 
 ```{r}
