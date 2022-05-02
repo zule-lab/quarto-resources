@@ -1,0 +1,10 @@
+---
+title: "Topics"
+listing: 
+  - contents: "topics/*md"
+    type: table
+    fields: [title, file-modified, description]
+    date-format: iso
+    max-description-length: 85
+page-layout: full
+---
