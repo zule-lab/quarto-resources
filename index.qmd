@@ -24,7 +24,6 @@ easily searched or filtered in the tables.
 ## TODO
 
 - List subfolder or path in listing pages?
-- WikiLinks?
 
 
 
