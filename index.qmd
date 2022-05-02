@@ -1,0 +1,15 @@
+---
+title: "Introduction"
+listing:
+  - contents: "**/*md"
+    type: table
+    max-items: 5
+    fields: [title, file-modified]
+    sort: file-modified
+    date-format: iso
+---
+
+Template literature base book using `quarto`. 
+
+
+Most recently modified pages:
