@@ -9,7 +9,31 @@ listing:
     sort: "file-modified desc"
 ---
 
-Template literature base book using `quarto`. 
+Template literature base using `quarto`.
+
+It is structured as a website since quarto books require the chapters
+to be explicitly listed in the `_quarto.yml` which doesn't gel super 
+well with this type of quickly growing literature base. Each file
+represents a paper, or a topic, or a book, and listing each as a chapter
+is a too cumbersome. 
+
+Listing pages are used to show all the pages within the subdirectories,
+easily searched or filtered in the tables. 
 
 
-Most recently modified pages:
+## TODO
+
+- List subfolder or path in listing pages?
+- WikiLinks?
+
+
+
+## Resources
+
+
+- [Quarto websites](https://quarto.org/docs/websites/)
+	- [Listing pages](https://quarto.org/docs/websites/website-listings.html)
+
+
+## Recently modified pages
+
