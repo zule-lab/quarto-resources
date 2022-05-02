@@ -5,6 +5,6 @@ listing:
     type: table
     fields: [title, file-modified, description]
     date-format: iso
-    max-description-length: 85
+    max-description-length: 100
 page-layout: full
 ---
