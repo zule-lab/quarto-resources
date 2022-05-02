@@ -1,12 +1,12 @@
 ---
 title: "Introduction"
 listing:
-  - contents: "**/*md"
+  - contents: "*/**md"
     type: table
-    max-items: 5
     fields: [title, file-modified]
-    sort: file-modified
     date-format: iso
+    max-items: 10
+    sort: "file-modified desc"
 ---
 
 Template literature base book using `quarto`. 

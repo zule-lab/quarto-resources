@@ -1,10 +1,10 @@
 ---
 title: "Books"
-toc: false
 listing: 
-  - contents: "books/*md"
+  - contents: books
     type: table
-    fields: [title, file-modified, description]
+    fields: [title, file-modified]
     date-format: iso
-page-layout: full
+    page-size: 10
+    sort: "file-modified desc"
 ---
