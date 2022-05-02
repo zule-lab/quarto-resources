@@ -1,4 +1,6 @@
 # Modified by Alec L. Robitaille (2022)
+# - add r-lib/actions/setup-r
+# - add r-lib/actions/setup-renv
 
 # Adapted from
 # https://github.com/quarto-dev/quarto-actions/blob/main/examples/quarto-book-gh-pages.yaml
@@ -17,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+      - uses: r-lib/actions/setup-renv@v2
 
       - name: Install Quarto
         uses: quarto-dev/quarto-actions/install-quarto@v1
