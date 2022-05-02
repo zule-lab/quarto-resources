@@ -1,0 +1,27 @@
+# Trees projects
+
+[Trees-In-Canada] lists x, y, z about trees. 
+
+@Trees-In-Canada
+
+[books/Trees-In-Canada]
+
+[Trees-In-Canada](../books/Trees-In-Canada.md)
+
+[Trees-In-Canada](books/Trees-In-Canada.md)
+
+
+```{r}
+#| echo: true
+library(ggplot2)
+
+N <- 100
+some_trees <- data.frame(
+	height = runif(N, 0, 5),
+	leaf_color = sample(c('red', 'brown', 'yellow'), N, replace = TRUE)
+)
+
+ggplot(some_trees, aes(height)) + 
+	geom_histogram(binwidth = 1) + 
+	facet_wrap(~leaf_color)
+```
