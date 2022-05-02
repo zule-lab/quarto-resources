@@ -15,16 +15,10 @@ It is structured as a website since quarto books require the chapters
 to be explicitly listed in the `_quarto.yml` which doesn't gel super 
 well with this type of quickly growing literature base. Each file
 represents a paper, or a topic, or a book, and listing each as a chapter
-is a too cumbersome. 
+is too cumbersome. 
 
 Listing pages are used to show all the pages within the subdirectories,
-easily searched or filtered in the tables. 
-
-
-## TODO
-
-- List subfolder or path in listing pages?
-- Networks
+easily searched or sorted. 
 
 
 ## Usage
@@ -35,12 +29,19 @@ easily searched or filtered in the tables.
 1. Adjust listing pages relevant to your subdirectory structure
 1. Adjust `_quarto.yml`
 
-## Resources
 
+## Resources
 
 - [Quarto websites](https://quarto.org/docs/websites/)
 	- [Listing pages](https://quarto.org/docs/websites/website-listings.html)
 - [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions)
+
+
+## TODO
+
+- List subfolder or path in listing pages?
+- Networks
+
 
 ## Recently modified pages
 
