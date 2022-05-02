@@ -27,12 +27,20 @@ easily searched or filtered in the tables.
 - Networks
 
 
+## Usage
+
+1. Fork/copy/get repo
+1. Remove example tree documents
+1. Replace with your own documents 
+1. Adjust listing pages relevant to your subdirectory structure
+1. Adjust `_quarto.yml`
+
 ## Resources
 
 
 - [Quarto websites](https://quarto.org/docs/websites/)
 	- [Listing pages](https://quarto.org/docs/websites/website-listings.html)
-
+- [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions)
 
 ## Recently modified pages
 
