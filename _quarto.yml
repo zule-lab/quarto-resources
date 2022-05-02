@@ -9,7 +9,6 @@ website:
   navbar:
     title: 'Quarto lit base'
   sidebar:
-    style: "docked"
     contents:
       - index.qmd
       - topics.qmd
