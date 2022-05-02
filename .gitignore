@@ -6,7 +6,6 @@
 /.quarto/
 docs/
 _targets/
-renv/
 
 .obsidian/appearance.json
 .obsidian/core-plugins.json
