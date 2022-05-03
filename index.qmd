@@ -7,7 +7,7 @@ listing:
     type: table
     fields: [title, file-modified]
     date-format: iso
-    max-items: 10
+    max-items: 5
     sort: "file-modified desc"
 ---
 
