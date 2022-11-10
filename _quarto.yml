@@ -5,13 +5,13 @@ project:
 website:
   page-navigation: true
   reader-mode: true
-  repo-url: https://github.com/robitalec/quarto-lit-base
+  repo-url: https://github.com/icrichmond/quarto-lit-base
   repo-actions: [edit, issue]
   navbar:
     title: 'Quarto lit base'
     right:
       - icon: github
-        href: https://github.com/robitalec/quarto-lit-base
+        href: https://github.com/icrichmond/quarto-lit-base
   sidebar:
     contents:
       - index.qmd
