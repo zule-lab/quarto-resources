@@ -7,6 +7,6 @@ Avolio ML, Pataki DE, Trammell TLE, Endter‐Wada J (2018) Biodiverse cities: th
 
 ---
 
-Keywords: Urban trees, ecosystem services, [[nurseries]], residential yards, [[private trees]]  
+Keywords: [urban trees](../topics/UrbanTrees.qmd), [ecosystem services](../topics/EcosystemServices.qmd), [nurseries](../topics/Nurseries.qmd), residential yards, [private trees](../topics/PrivateTrees.qmd)  
 
 In semiarid and arid regions, trees are largely human planted. Nurseries are the source of most cultivated plants in cities, residents choose trees based on preferences not considered in the literature, mostly non-native trees available from nurseries, correlation between observed tree species and abundance in stores, higher income residents shop at locally owned nurseries, 90% of tree purchasers obtained their tree at a store, income did not impact street tree structure, younger neighbourhoods had street trees with showier flowers, street and yard trees differed significantly 

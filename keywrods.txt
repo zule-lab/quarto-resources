@@ -5,16 +5,25 @@
 [[statistics]]
 [[socioecological]]
 [[gender]]
+[[income]]
+[[racism]]
+[[luxury effect]]
+[[governance]]
+[[urban metabolism]]
+[[urban form]]
 
 [[temperature mitigation]]
+[[air pollution]]
 [[canopy cover]]
 [[gentrification]]
 
-[[Ecosystem services]]
+[[Ecosystem services]] + [[ecosystem services]]
+[[provision]]
 
 [[Biodiversity]] + [[biodiversity]]
 [[management]]
 [[planning]]
+[[sustainabilty]]
 [[scale]]
 [[wicked problems]]
 
@@ -22,31 +31,65 @@
 [[private trees]]
 
 [[regulating ecosystem services]]
+[[cultural ecosystem services]]
 [[economic valuation]]
 
 [[flow]]
+[[delivery]]
+[[pressure]]
+[[demand]]
 
 [[tree inventory]]
-[[sampling methods]]
+[[sampling methods]] + [[methods]]
+[[statistics]]
 [Google Street View]]
 [[Google Earth Engine]]
 
 [[nature's contributions to people]]
+[[disservices]]
+
 
 [[land cover]]
+[[land use]]
 [[historical]]
 [[legacy effects]]
+[[spatiotemporal]]
 
 [[Indigenous knowledge]]
 [[Canada]]
 
 [[heterogeneity]]
+[[functional diversity]] + [[functional traits]]
 
 [[deep learning]]
-[[sampling methods]]
 [[open access]]
-[[Landsat]]
+[[Landsat]] + 
+[[remote sensing]]
 
 [[carbon storage]]
+[[iTree]]
 
 [[urban evolution]]
+[[fragmentation]]
+
+[[Montreal]]
+[[Quebec]]
+[[municipal]]-
+[[parks]]
+[[yards]]
+[[green space]]
+[[urban forests]] + [[urban trees]] +
+[[street trees]]
+
+[[COVID]]
+[[health]]
+
+[[foundational]]
+
+[[insects]]
+
+[[ecology of cities]]
+[[community science]]
+[[resilience]]
+
+[[academia]]

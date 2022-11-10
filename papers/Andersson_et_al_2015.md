@@ -6,6 +6,6 @@ Andersson E, McPhearson T, Kremer P, et al (2015) Scale and context dependence o
 
 ---
 
-Keywords: [[Ecosystem services]], urban trees, spatial, temporal
+Keywords: [ecosystem services](../topics/EcosystemServices.qmd), [urban trees](../topics/UrbanTrees.qmd), [spatiotemporal](../topics/Spatiotemporal.qmd)
 
-Service providing units, landscape - ES connection, SPUs can be situated organisms and/or physical places, spatial [[scale]] of ES varies, provision of ES varies over time, good table of ecosystem services/scale/SPU/etc., organizational scale affects ES provision, many ES from urban trees are scalable, Fig 1 is of urban tree SPU configurations, ES are dependent on the context that they exist in, require systematic and integrated approaches to ES [[management]]/[[planning]], "ES must be examined across spatial and temporal scales"
+Service providing units, landscape - ES connection, SPUs can be situated organisms and/or physical places, spatial [scale](../topics/Scale.qmd) of ES varies, provision of ES varies over time, good table of ecosystem services/scale/SPU/etc., organizational scale affects ES provision, many ES from urban trees are scalable, Fig 1 is of urban tree SPU configurations, ES are dependent on the context that they exist in, require systematic and integrated approaches to ES [management](../topics/Management.qmd)/[planning](../topics/Planning.qmd), "ES must be examined across spatial and temporal scales"

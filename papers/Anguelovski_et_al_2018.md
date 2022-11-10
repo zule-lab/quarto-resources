@@ -4,6 +4,6 @@ Anguelovski I, Irazábal‐Zurita C, Connolly JJT (2019) Grabbed Urban Landscape
 
 ---
 
-Keywords: Green infrastructure, [[gentrification]], [[environmental justice]]  	  
+Keywords: Green infrastructure, [gentrification](../topics/Gentrification.qmd), [environmental justice](../topics/EnvironmentalJustice.qmd)  	  
 
 Growing number of self-made settlements and the integration of those with green infrastructure creates tension. Promotion of green infrastructure often comes at a cost for socially and economically vulnerable, under the guise of "universal benefits". Green gentrification causes displacement, weakening security, erases traditional ways of life, and creates environmental privilege for the upper class. Sustainability planning that doesnt explicitly include social justice creates injustice - sustainability that focuses on compact growth is often tied to real estate and economic goals. Creation of ecological enclaves through green infrastructure projects can jeopardize long-term municipal efforts to create a more just city.

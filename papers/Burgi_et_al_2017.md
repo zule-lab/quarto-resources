@@ -5,6 +5,6 @@ Bürgi M, Östlund L, Mladenoff DJ (2017) Legacy Effects of Human Land Use: Ecos
 
 ---
 
-Keywords: [[land cover]], [[historical]], anthropogenic, [[legacy effects]], review	  
+Keywords: [land cover](../topics/LandCover.qmd), [historical](../topics/Historical.qmd), anthropogenic, [legacy effects](../topics/LegacyEffects.qmd), review	  
 
 "Human land use is one core component within historical ecology, which focuses on understanding the importance of past events to ecosystems, and the long-term legacies of these effects, or lags in ecosystem response". Humans have direct (land-use change) and indirect (disturbance regime changes) effects on ecosystems. Past land use may oersust as legacies in ecosystems. Distinguishes between land-cover changes and land-use changes. Resilient and slow adapting ecosystems experience more legacy effects. 

@@ -6,6 +6,6 @@ Aronson MF, Lepczyk CA, Evans KL, et al (2017) Biodiversity in the city: key cha
 
 ---
 
-Keywords: [[Biodiversity]], urban green space, [[management]], [[wicked problems]]  
+Keywords: [biodiversity](../topics/Biodiversity.qmd), urban green space, [management](../topics/Management.qmd), [wicked problems](../topics/WickedProblems.qmd)  
 
 Common management practices threaten urban biodiversity, need to balance human needs, cities can be critical for native biodiversity conservation (usually through green spaces), management at different scales affects UGS capacity for biodiversity and provision of ES, four main challenges: public/private land managed individually, UGS management driven by socioeconomic factors, many management techniques are barriers to biodiversity conservation, UGS support novel plant and animal communities

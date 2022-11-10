@@ -4,6 +4,6 @@ Cramer V, Hobbs R, Standish R (2008) What’s new about old fields? Land abandon
 
 ---
 
-Keywords: land abandonment, [[legacy effects]], fields	 
+Keywords: land abandonment, [legacy effects](../topics/LegacyEffects.qmd), fields	 
 
 There are a series of thresholds that continued/intensified cultivation cross in the ecosystem and those thresholds determine how the landscape will recover post-abandonment. Invasive species can intensify the legacy of cultivation and delay or completely stall recovery. Legacy effects are complex and depend on a variety of factors.
