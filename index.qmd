@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: "Alec L. Robitaille"
+author: "Isabella C. Richmond + Alec L. Robitaille"
 date: "`r Sys.Date()`"
 listing:
   - contents: "*/**qmd"
