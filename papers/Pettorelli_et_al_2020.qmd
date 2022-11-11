@@ -5,6 +5,6 @@ Pettorelli N, Barlow J, Nuñez MA, et al (2021) How international journals can s
 
 ---
 
-Keywords: Editorial, [[diversity]], [[academia]], [[racism]] 
+Keywords: Editorial, [diversity](../topics/Biodiversity.qmd), [academia](../topics/Academia.qmd), [racism](../topics/Racism.qmd) 
 
 Global North	Previously showed that almost 90% of journal articles published in leading ecological and conservation journals are from the Global North. Free our minds from colonial ideology and dominance of discourse originating from influential groups. Formal changes to peer-reviewed journal practices can address current power imbalances. 

@@ -4,6 +4,6 @@ Pinho P, Casanelles-Abella J, Luz AC, et al (2021) Research agenda on biodiversi
 
 ---
 
-Keywords: [[community science]], habitat mapping, urban	 
+Keywords: [community science](../topics/CommunityScience.qmd), habitat mapping, urban	 
 
-Citizen scientists can help fill gaps in species distributions and relationships to ES in cities. Research directions for urban habitat mapping include creating ecologically meaningful maps of cities including all land uses, [[land cover]], and habitat sizes and using remote sensing to create spatially complete and temporally replicated sampling design. Research directions for multiple environmental gradients include quantifying multiple environmental drivers of [[biodiversity]] considering multiple dimensions and assessing new species assemblages resulting from changing conditions. Emphasized the importance of [[functional diversity]] based research.
+Citizen scientists can help fill gaps in species distributions and relationships to ES in cities. Research directions for urban habitat mapping include creating ecologically meaningful maps of cities including all land uses, [land cover](../topics/LandCover.qmd), and habitat sizes and using remote sensing to create spatially complete and temporally replicated sampling design. Research directions for multiple environmental gradients include quantifying multiple environmental drivers of [biodiversity](../topics/Biodiversity.qmd) considering multiple dimensions and assessing new species assemblages resulting from changing conditions. Emphasized the importance of [functional diversity](../topics/FunctionalDiversity.qmd) based research.

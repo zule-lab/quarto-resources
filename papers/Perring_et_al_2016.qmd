@@ -4,6 +4,6 @@ Perring MP, De Frenne P, Baeten L, et al (2016) Global environmental change effe
 
 ---
 
-Keywords: forest, [[land cover]], [[historical]], opinion, [[legacy effects]]  
+Keywords: forest, [land cover](../topics/LandCover.qmd), [historical](../topics/Historical.qmd), opinion, [legacy effects](../topics/LegacyEffects.qmd)  
 
 "Land use legacies are the abiotic and biotic properties found at a site, due, at least in part, to the influence of land-use history (Foster et al. 2003)"/"land-use history is the sometimes complex successive sequence of human uses that a site has undergone (REFS)". Contrasting legacies mean that even for seemingly identical systems at present, they are on different trajectories of change.

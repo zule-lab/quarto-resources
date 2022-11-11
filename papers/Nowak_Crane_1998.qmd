@@ -5,6 +5,6 @@ Nowak, David J., Crane, Daniel E. (1998) The Urban Forest Effects (UFORE) Model:
 
 ---
 
-Keywords: [[iTree]], modelling, urban ES	
+Keywords: [iTree](../topics/iTree.qmd), modelling, urban ES	
 
-UFORE was developed to help managers and researchers quantify urban forest structure and its functions. A quantifies forest structure, B quantifies VOC emissions, C quantifies carbon storage and sequestration, D quantifies hourly pollution removal. A uses field data of the forest. Discusses how each model works - good methods paper. Includes [[sampling methods]]
+UFORE was developed to help managers and researchers quantify urban forest structure and its functions. A quantifies forest structure, B quantifies VOC emissions, C quantifies carbon storage and sequestration, D quantifies hourly pollution removal. A uses field data of the forest. Discusses how each model works - good methods paper. Includes sampling [methods](../topics/Methods.qmd)

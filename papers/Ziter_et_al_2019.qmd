@@ -5,6 +5,6 @@ Ziter CD, Pedersen EJ, Kucharik CJ, Turner MG (2019) Scale-dependent interaction
 
 ---
 
-Keywords: Urban heat island, ES, urban forest, [[temperature mitigation]]	
+Keywords: Urban heat island, ES, urban forest, [temperature mitigation](../topics/TemperatureMitigation.qmd)	
 
-Urban air temperature relies on fine-scale [[heterogeneity]] of urban areas (e.g. tree canopies covering pavement). Air temperature at the intraurban fine-scale is sparse. Air temperature decreased nonlinearly with increasing tree canopy cover and effects were larger at broader scales. Air temperature increased linearly with increasing impervious cover. Increasing [[canopy cover]] was more effective at reducing temperature than decreasing impervious cover. Effect was more pronounced during the day. Reducing impervious surfaces decreases temperatures at night – very important. 
+Urban air temperature relies on fine-scale [heterogeneity](../topics/Heterogeneity.qmd) of urban areas (e.g. tree canopies covering pavement). Air temperature at the intraurban fine-scale is sparse. Air temperature decreased nonlinearly with increasing tree canopy cover and effects were larger at broader scales. Air temperature increased linearly with increasing impervious cover. Increasing [canopy cover](../topics/CanopyCover.qmd) was more effective at reducing temperature than decreasing impervious cover. Effect was more pronounced during the day. Reducing impervious surfaces decreases temperatures at night – very important. 

@@ -4,6 +4,6 @@ Ernstson H (2013) The social production of ecosystem services: A framework for s
 
 ---
 
-Keywords: [[ecosystem services]], [[environmental justice]], urban	
+Keywords: [ecosystem services](../topics/EcosystemServices.qmd), [environmental justice](../topics/EnvironmentalJustice.qmd), urban	
 
 If urban nature comes with benefits, there is almost certainly an uneven social production of such ES. Environmental justice is the spatial distribution of environmental goods and ills amongst people. Social, biophysical, and political processes moderate the generation AND distribution of ES. Humans play an active and positive role as stewards in supporting ES. Biophysical processes tend to distribute benefits at specific scales. Fig 1 outlines the approach I want to take. Active civil society is a key factor in ES.

@@ -4,6 +4,6 @@ Jenerette GD (2018) Ecological contributions to human health in cities. Landscap
 
 ---
 
-Keywords: [[environmental justice]], urban, human [[health]]	 
+Keywords: [environmental justice](../topics/EnvironmentalJustice.qmd), urban, human [health](../topics/Health.qmd)	 
 
 Migration of people from rural to urban is leading to different human health vulnerabilities. Urban health vulnerability is experienced more intensely by marginalized communities. Urban health vulnerability will become more unpredictable in time and across landscapes. Urban green space is associated with positive health effects and reduces sensitivity to many health hazards. Human health is another consideration when managing urban spaces for ES.

@@ -5,7 +5,7 @@ Firth CL, Thierry B, Fuller D, et al (2021) Gentrification, Urban Interventions 
 
 ---
 
-Keywords: [[gentrification]], GENUINE, [[Montreal]], [[Canada]], [[methods]] 
+Keywords: [gentrification](../topics/Gentrification.qmd), GENUINE, [Montreal](../topics/Montreal.qmd), [Canada](../topics/Canada.qmd), [methods](../topics/Methods.qmd) 
 
 Definition of gentrification, 4 gentrification measures developed for Canada (Freeman, Ding, Steinmetz-Wood, Grube-Cavers)  
 

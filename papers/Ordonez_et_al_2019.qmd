@@ -6,6 +6,6 @@ Ordóñez C, Threlfall CG, Kendal D, et al (2019) Urban forest governance and de
 
 ---
 
-Keywords: Urban sustainability, socioecology, [[planning]]	 
+Keywords: Urban sustainability, socioecology, [planning](../topics/Planning.qmd)	 
 
-Urban tree planting decisions are generally made by [[municipal]] managers. The literature does not adequately describe how municipal managers make their decisions. Municipal managers are key actors in forest [[governance]] and decision-making. A gap in the papers they found was the development of objective measures or indicators of program performance and urban forest success. 
+Urban tree planting decisions are generally made by [municipal](../topics/Municipal.qmd) managers. The literature does not adequately describe how municipal managers make their decisions. Municipal managers are key actors in forest [governance](../topics/Governance.qmd) and decision-making. A gap in the papers they found was the development of objective measures or indicators of program performance and urban forest success. 

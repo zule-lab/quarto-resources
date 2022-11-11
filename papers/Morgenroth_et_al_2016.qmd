@@ -6,6 +6,6 @@ Morgenroth J, Östberg J, Konijnendijk van den Bosch C, et al (2016) Urban tree 
 
 ---
 
-Keywords: [[biodiversity]], urban ecology	  
+Keywords: [biodiversity](../topics/Biodiversity.qmd), urban ecology	  
 
-Urban forests provide provisioning, regulating, cultural, and supporting ecosystem services. ES provided by urban forests are moderated by [[canopy cover]] and tree structure. ES are dependent on the intrinsic and temporal characteristics of different species. Not all species guarantee improved ecosystem function - some have [[disservices]] or undesirable outcomes. Non-native species numbers increase in cities and non-native species may reduce ES. Average 20% of trees in an urban forest were of the same species - low diversity overall even though there is high potential for diversity. Role of tree species diversity in ES provision is poorly understood. 
+Urban forests provide provisioning, regulating, cultural, and supporting ecosystem services. ES provided by urban forests are moderated by [canopy cover](../topics/CanopyCover.qmd) and tree structure. ES are dependent on the intrinsic and temporal characteristics of different species. Not all species guarantee improved ecosystem function - some have [disservices](../topics/Disservices.qmd) or undesirable outcomes. Non-native species numbers increase in cities and non-native species may reduce ES. Average 20% of trees in an urban forest were of the same species - low diversity overall even though there is high potential for diversity. Role of tree species diversity in ES provision is poorly understood. 

@@ -4,7 +4,7 @@ Villamagna AM, Angermeier PL, Bennett EM (2013) Capacity, pressure, demand, and 
 
 ---
 
-Keywords: [[regulating ecosystem services]], capacity, [[demand]], flow, framework	 
+Keywords: [regulating ecosystem services](../topics/RegulatingEcosystemServices.qmd), capacity, [demand](../topics/Demand.qmd), flow, framework	 
 
 
 Notes got deleted but extremely good paper. Promotes unifying framework of capacity, pressures, demand, and flow with good definitions and examples. Advocates for more studies on regulating services and describes how and why that should be done.

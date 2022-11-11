@@ -5,6 +5,6 @@ Yang YCE, Passarelli S, Lovell RJ, Ringler C (2018) Gendered perspectives of eco
 
 ---
 
-Keywords: [[gender]] equity, ES	 
+Keywords: [gender](../topics/Gender.qmd) equity, ES	 
 
-A gendered understanding of ecosystem services can create just, legitimate, and effective policies, institutional arrangements, and management interventions for ecosystems and biodiversity. Systematic review of how studies have defined, operationalized, and assessed gender differences in relation to ES. Gender perspectives differed on ecosystem services related  to timber/fuel, medicinal products, water supply, other provisioning services, and [[regulating ecosystem services]] . Should include social factors other than gender – does not operate alone. 
+A gendered understanding of ecosystem services can create just, legitimate, and effective policies, institutional arrangements, and management interventions for ecosystems and biodiversity. Systematic review of how studies have defined, operationalized, and assessed gender differences in relation to ES. Gender perspectives differed on ecosystem services related  to timber/fuel, medicinal products, water supply, other provisioning services, and [regulating ecosystem services](../topics/RegulatingEcosystemServices.qmd) . Should include social factors other than gender – does not operate alone. 

@@ -4,6 +4,6 @@ Ziter C, Bennett EM, Gonzalez A (2014) Temperate forest fragments maintain above
 
 ---
 
-Keywords: [[carbon storage]], [[fragmentation]], ES	 
+Keywords: [carbon storage](../topics/CarbonStorage.qmd), [fragmentation](../topics/Fragmentation.qmd), ES	 
 
 Edge effects affect the composition of fragmented forests. Fragmentation can influence biodiversity, in turn influencing ecosystem processes such as carbon stocks. Proximity to forest edge had no effect on aboveground carbon stocks. There was a sig effect on proximity to forest edge and stem density.

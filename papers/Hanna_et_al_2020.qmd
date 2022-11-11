@@ -5,6 +5,6 @@ Hanna DEL, Roux DJ, Currie B, Bennett EM (2020) Identifying pathways to reduce d
 
 ---
 
-Keywords: [[nature's contributions to people]], ES, [[management]] 	
+Keywords: [nature's contributions to people](../topics/NaturesContributionstoPeople.qmd), ES, [management](../topics/Management.qmd) 	
 
-Positive people-nature interactions are declining - identifying barriers can inform development and management strategies. Studies about ES provision and [[ecosystem service demand]] do not include user perspectives - they use proxies. ES users are not a homogenous group. Good qualitative methods. Community members and stakeholders can be included in research trying to understand discrepancies between provided and damnd of ES and identify locally relevant ideas for action. Co-creation of knowledge helps produce ideas. Quebec study.
+Positive people-nature interactions are declining - identifying barriers can inform development and management strategies. Studies about ES provision and ecosystem service [demand](../topics/Demand.qmd) do not include user perspectives - they use proxies. ES users are not a homogenous group. Good qualitative methods. Community members and stakeholders can be included in research trying to understand discrepancies between provided and damnd of ES and identify locally relevant ideas for action. Co-creation of knowledge helps produce ideas. Quebec study.

@@ -5,6 +5,6 @@ Zhao C, Sander HA (2018) Assessing the sensitivity of urban ecosystem service ma
 
 ---
 
-Keywords: [[carbon storage]], mapping, validation, methods	 
+Keywords: [carbon storage](../topics/CarbonStorage.qmd), mapping, validation, methods	 
 
-Primary ES data are rarely available, meaning studies often map secondary land use and [[land cover]] proxies. Urban ES is a special case because urban areas are so spatially [[heterogeneity]] that the wrong data could lead to high mapping error. All models underestimated carbon storage – correlations varied across urbanization levels. Overall, LUC models had different spatial distributions of C storage than what was actually observed and this effect increases with increased landscape htereogeneity. Coarse-scale LUC data performed worse than fine-scale LUC data.
+Primary ES data are rarely available, meaning studies often map secondary land use and [land cover](../topics/LandCover.qmd) proxies. Urban ES is a special case because urban areas are so spatially [heterogeneity](../topics/Heterogeneity.qmd) that the wrong data could lead to high mapping error. All models underestimated carbon storage – correlations varied across urbanization levels. Overall, LUC models had different spatial distributions of C storage than what was actually observed and this effect increases with increased landscape htereogeneity. Coarse-scale LUC data performed worse than fine-scale LUC data.

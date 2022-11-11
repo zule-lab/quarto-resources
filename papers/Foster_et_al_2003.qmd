@@ -4,6 +4,6 @@ Foster D, Swanson F, Aber J, et al (2003) The Importance of Land-Use Legacies to
 
 ---
 
-Keywords: [[land cover]], [[historical]], [[legacy effects]], [[foundational]]	 
+Keywords: [land cover](../topics/LandCover.qmd), [historical](../topics/Historical.qmd), [legacy effects](../topics/LegacyEffects.qmd), [foundational](../topics/Foundational.qmd)	 
 
 4 case studies for the broad legacy effects of humans in terrestrial landscapes. Tree abundance, species composition, and forest structure are all dependent on past land-use types and logging intensity. Land-use equally affects soils and their structures. Recovery from legacy effects varies a lot depending on the system and past land-use. Historical landscapes are required to understand current ecosystems.

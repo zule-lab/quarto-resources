@@ -5,6 +5,6 @@ Ramirez-Reyes C, Brauman KA, Chaplin-Kramer R, et al (2019) Reimagining the pote
 ---
 
 
-Keywords: [[remote sensing]], monitoring, ES	
+Keywords: [remote sensing](../topics/RemoteSensing.qmd), monitoring, ES	
 
-Earth observations via remote sensing provide opportunities to measure ES levels and beneficiaries at a local and global scale. There are continuous variables from EO products other than land use that can be used to assess ES – e.g. leaf area index. Need to create models that accomodate spatial [[heterogeneity]] and within-pixel variability with EO data. EO data can be used for the next generation of ES modelling.
+Earth observations via remote sensing provide opportunities to measure ES levels and beneficiaries at a local and global scale. There are continuous variables from EO products other than land use that can be used to assess ES – e.g. leaf area index. Need to create models that accomodate spatial [heterogeneity](../topics/Heterogeneity.qmd) and within-pixel variability with EO data. EO data can be used for the next generation of ES modelling.

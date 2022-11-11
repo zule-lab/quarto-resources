@@ -4,6 +4,6 @@ Pataki DE, Alberti M, Cadenasso ML, et al (2021) The Benefits and Limits of Urba
 
 ---
 
-Keywords: Urban forestry, climate mitigation, [[policy]]	 
+Keywords: Urban forestry, climate mitigation, [policy](../topics/Policy.qmd)	 
 
-There are benefits to urban trees but the benefits have limitations. Effectiveness of tree planting is dependent on [[scale]]. Urban trees are most effective at providing ES that operate at local scales, such as parcels or urban forest/neighbourhood patches. Urban trees are more useful at providing climate adaptation than mitigation. Small green spaces may have large impacts on human [[health]], which is perhaps the more important things since the small amount of greenspace allocated in cities can’t sequester enough [[carbon storage]] (for example) to make a difference.
+There are benefits to urban trees but the benefits have limitations. Effectiveness of tree planting is dependent on [scale](../topics/Scale.qmd). Urban trees are most effective at providing ES that operate at local scales, such as parcels or urban forest/neighbourhood patches. Urban trees are more useful at providing climate adaptation than mitigation. Small green spaces may have large impacts on human [health](../topics/Health.qmd), which is perhaps the more important things since the small amount of greenspace allocated in cities can’t sequester enough [carbon storage](../topics/CarbonStorage.qmd) (for example) to make a difference.

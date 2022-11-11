@@ -5,6 +5,6 @@ Ziter C (2016) The biodiversity–ecosystem service relationship in urban areas:
 
 ---
 
-Keywords: Meta-analysis, [[biodiversity]], urban ES  
+Keywords: Meta-analysis, [biodiversity](../topics/Biodiversity.qmd), urban ES  
 
 Most papers only assess 1 ES, rarely including 3 or more (in a single city). Regulating ES were most common. ES related to climate and/or weather were the majority. Most biodiversity-ES assessments found a non-correlative relationship. Most use habitat type classifications in their assessments. 

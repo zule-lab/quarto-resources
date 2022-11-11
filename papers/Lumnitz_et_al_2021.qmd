@@ -5,6 +5,6 @@ Lumnitz S, Devisscher T, Mayaud JR, et al (2021) Mapping trees along urban stree
 
 ---
 
-Keywords: [[deep learning]], street-level images, urban forest, [[Google Street View]]
+Keywords: [deep learning](../topics/DeepLearning.qmd), street-level images, urban forest, [Google Street View](../topics/GoogleStreetView.qmd)
 
 A lot of applications of deep learning at street-level with urban trees including greenery indexes, species Ids, precise locations, changes over time, etc. But most approaches still require secondary data sources. Successfully identified trees in the landscape and their locations using GSV.

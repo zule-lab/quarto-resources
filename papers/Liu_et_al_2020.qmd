@@ -5,6 +5,6 @@ Liu X, Huang Y, Xu X, et al (2020) High-spatiotemporal-resolution mapping of glo
 
 ---
 
-Keywords: [[Landsat]], urban, [[spatiotemporal]]	 
+Keywords: Landsat, [remote sensing](../topics/RemoteSensing.qmd), urban, [spatiotemporal](../topics/Spatiotemporal.qmd)	 
 
-Our understanding of how cities change is limited by high resolution spatiotemporal land cover data. Used Landsata imagery to map annual changes in urban extent at a 30 m resolution for 1985 - 2015 using [[Google Earth Engine]]. Fused 4 global urban-extent maps to get highly detailed data. Most new city land comes from developing agricultural land types.
+Our understanding of how cities change is limited by high resolution spatiotemporal land cover data. Used Landsata imagery to map annual changes in urban extent at a 30 m resolution for 1985 - 2015 using [Google Earth Engine](../topics/GoogleEarthEngine.qmd). Fused 4 global urban-extent maps to get highly detailed data. Most new city land comes from developing agricultural land types.

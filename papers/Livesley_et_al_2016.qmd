@@ -6,6 +6,6 @@ Livesley SJ, McPherson EG, Calfapietra C (2016) The Urban Forest and Ecosystem S
 
 ---
 
-Keywords: [[urban forests]], ecosystem services	  
+Keywords: urban forests, [urban trees](../topics/UrbanTrees.qmd), ecosystem services	  
 
-Urban trees have a role in how we manage urban catchment hydrology. Urban trees can also mitigate water, soil, and air pollution. Good figure of urban ES at the tree, street, and city scale. Urban trees influence [[carbon sequestration]] capacity. Urban trees are most effective and least costly approoach to urban heat island mitigation. In depth discussion of urban trees + heat islands, catchment hydrology, [[air pollution]], [[temperature mitigation]]
+Urban trees have a role in how we manage urban catchment hydrology. Urban trees can also mitigate water, soil, and air pollution. Good figure of urban ES at the tree, street, and city scale. Urban trees influence [carbon sequestration](../topics/CarbonStorage.qmd) capacity. Urban trees are most effective and least costly approoach to urban heat island mitigation. In depth discussion of urban trees + heat islands, catchment hydrology, [air pollution](../topics/AirPollution.qmd), [temperature mitigation](../topics/TemperatureMitigation.qmd)
