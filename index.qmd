@@ -3,7 +3,7 @@ title: "Introduction"
 author: "Alec L. Robitaille"
 date: "`r Sys.Date()`"
 listing:
-  - contents: "*/**md"
+  - contents: "*/**qmd"
     type: table
     fields: [title, file-modified]
     date-format: iso
