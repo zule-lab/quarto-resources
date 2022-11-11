@@ -6,6 +6,6 @@ Vogt J (2018) “Ships that pass in the night”: Does scholarship on the social
 
 ---
 
-Keywords: [citation politics](../topics/CitationPolitics.qmd), urban ecology, [academia](../topics/Academia.qmd)	  
+Keywords: citation politics, urban ecology, [academia](../topics/Academia.qmd)	  
 
 Two papers on the effects of tree planting on community were published in 2018. The two papers have zero shared citations. They even cite different journals and authors completely. Articles cited are from journals that are from different disciplines - psychology vs urban ecology. The backgrounds of author teams are quite distinct. Lack of breadth in search terms is probably at least partially responsible. When designing research, ask yourself how other disciplines would approach the problem. Acknowledge scope and biases within manuscripts.

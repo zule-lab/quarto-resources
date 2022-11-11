@@ -4,7 +4,7 @@ Crowley MA, Cardille JA (2020) Remote Sensing’s Recent and Future Contribution
 
 ---
 
-Keywords: Remote sensing, machine learning, [open access](../topics/OpenAccess.qmd), [remote sensing](../topics/Remote Sensing.qmd)	  
+Keywords: Remote sensing, machine learning, [open access](../topics/OpenAccess.qmd), [remote sensing](../topics/RemoteSensing.qmd)	  
 
 
 Landscape ecologists focus on relationships of pattern and process and many rely on remote sensing. Recent advances in remote sensing - explosion of data diversity and availability, emergence of massive-throughput analysis platforms [Google Earth Engine](../topics/GoogleEarthEngine.qmd), development of algorithms for large-scale image classifications (many based on machine learning). Advances in landscape ecology using remote sensing - quantifying landscape structure at various spatial and temporal extents. Table showing best soures for different scales. Future prospects - there are increasing opportunities for image classification and fine-scale analysis with the release of new data and satellites. Using multiple sources and data types can create novel insights.
