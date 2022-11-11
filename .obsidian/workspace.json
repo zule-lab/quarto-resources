@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "28904a2c57342153",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a753343c15be24e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da432217599a848",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "917375e1d3622d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "096ac743be4683d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c2d3f2b493303f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0af7274b62c8a41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2b4f8b250eb3546",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a6c59cfdf517c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef607a7a19889b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f47355516afb8a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4217730d29bd8bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0c8ed9286ad351",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55627ae2c97f042d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2da432217599a848",
+  "lastOpenFiles": [
+    "index.qmd",
+    "papers.qmd",
+    "projects.qmd",
+    "topics.qmd",
+    "topics/Academia.qmd",
+    "papers/Alonzo_et_al_2021.qmd",
+    "topics/CanopyCover.qmd",
+    "topics/TemperatureMitigation.qmd"
+  ]
+}
