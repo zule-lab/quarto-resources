@@ -1,0 +1,27 @@
+# Hsieh_et_al_2016
+
+Hsieh TC, Ma KH, Chao A (2016) iNEXT: an R package for rarefaction and extraplation of species diversity (Hill numbers). Methods Ecol Evol. https://doi.org/10.1111/2041-210X.12613
+
+------------------------------------------------------------------------
+
+Keywords: [biodiversity](../topics/Biodiversity.qmd), [methods](../topics/Methods.qmd), [stats](../topics/Statistics.qmd)
+
+Hill numbers = effective number of species (parameterized by a diversity order, *q*, which determines measures' sensitivity to species relative abundances)\
+*q* = 0 = species richness\
+*q* = 1 = Shannon diversity\
+*q* = 2 = Simpson diversity
+
+Species richness is highly dependent on sample size + sampling efforts. Sample-size-based rarefaction and extrapolation is a method to rarify samples to be comparable without throwing out data. Species richness values can be rareified to smaller sample sizes or extrapolated to larger sample size based on asymptotic curve.
+
+Two types of data classify most biological surveys:
+
+1.  Individual-Based **Abundance Data**
+    -   sampling unit is an individual
+2.  Sampling-Unit-Based **Incidence Data**
+    -   sampling unit is a trap, net, quadrat, plot, or timed survey
+
+    -   two types of incidence input data
+
+        -   incidence-raw data (incidence_raw)
+
+        -   incidence-frequency data (incidence_freq)
