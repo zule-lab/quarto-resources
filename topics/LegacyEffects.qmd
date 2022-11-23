@@ -1,4 +1,0 @@
----
-title: "legacy effects"
-editor: visual
----

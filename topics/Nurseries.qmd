@@ -1,4 +1,0 @@
----
-title: "nurseries"
-editor: visual
----

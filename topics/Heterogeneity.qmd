@@ -1,4 +1,0 @@
----
-title: "heterogeneity"
-editor: visual
----

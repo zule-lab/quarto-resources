@@ -1,4 +1,0 @@
----
-title: "urban trees"
-editor: visual
----

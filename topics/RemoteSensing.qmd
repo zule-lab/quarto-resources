@@ -1,4 +1,0 @@
----
-title: "remote sensing"
-editor: visual
----

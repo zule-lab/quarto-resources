@@ -5,20 +5,19 @@ project:
 website:
   page-navigation: true
   reader-mode: true
-  repo-url: https://github.com/icrichmond/quarto-lit-base
+  repo-url: https://github.com/zule-lab/quarto-resources
   repo-actions: [edit, issue]
   navbar:
-    title: 'Quarto lit base'
+    title: 'ZULE Lab Resources & Policies'
     right:
       - icon: github
-        href: https://github.com/icrichmond/quarto-lit-base
+        href: https://github.com/zule-lab/quarto-resources
   sidebar:
     contents:
       - index.qmd
-      - topics.qmd
-      - books.qmd
-      - papers.qmd
-      - projects.qmd
+      - policies.qmd
+      - spatial-resources.qmd
+      - other-resources.qmd
 
 
 

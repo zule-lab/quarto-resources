@@ -1,4 +1,0 @@
----
-title: "open access"
-editor: visual
----

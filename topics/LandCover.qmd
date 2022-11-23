@@ -1,4 +1,0 @@
----
-title: "land cover"
-editor: visual
----

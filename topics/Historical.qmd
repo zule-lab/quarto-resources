@@ -1,4 +1,0 @@
----
-title: "historical"
-editor: visual
----

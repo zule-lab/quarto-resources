@@ -1,4 +1,0 @@
----
-title: "planning"
-editor: visual
----

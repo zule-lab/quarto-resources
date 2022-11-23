@@ -1,4 +1,0 @@
----
-title: "wicked problems"
-editor: visual
----

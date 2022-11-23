@@ -1,4 +1,0 @@
----
-title: "yards"
-editor: visual
----

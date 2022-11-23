@@ -1,4 +1,0 @@
----
-title: "deep learning"
-editor: visual
----

@@ -1,0 +1,10 @@
+---
+title: "Other Resources"
+listing: 
+  - contents: other-resources
+    type: table
+    fields: [title, file-modified]
+    date-format: iso
+    page-size: 10
+    sort: "file-modified desc"
+---

@@ -1,4 +1,0 @@
----
-title: "income"
-editor: visual
----

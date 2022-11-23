@@ -1,4 +1,0 @@
----
-title: "green space"
-editor: visual
----

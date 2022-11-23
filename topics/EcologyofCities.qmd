@@ -1,4 +1,0 @@
----
-title: "ecology of cities"
-editor: visual
----

@@ -1,4 +1,0 @@
----
-title: "temperature mitigation"
-editor: visual
----

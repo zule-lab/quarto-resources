@@ -1,4 +1,0 @@
----
-title: "community science"
-editor: visual
----

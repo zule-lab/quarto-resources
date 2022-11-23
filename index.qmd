@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "ZULE Lab Policies & Resources"
 author: "Isabella C. Richmond + Alec L. Robitaille"
 date: "`r Sys.Date()`"
 listing:
@@ -38,12 +38,10 @@ easily searched or sorted.
 	- [Listing pages](https://quarto.org/docs/websites/website-listings.html)
 - [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions)
 
-
-## TODO
-
-- List subfolder or path in listing pages?
-- Networks
-
+## TO-DO 
+- add commonly used spatial resources
+- add links to intro reading lists 
+- check Drive for other introductory materials which should go here
 
 ## Recently modified pages
 
