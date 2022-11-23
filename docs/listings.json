@@ -1,7 +1,10 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/policies/individual-mentoring-plan.html",
+      "/policies/code-of-conduct.html"
+    ]
   },
   {
     "listing": "/other-resources.html",
