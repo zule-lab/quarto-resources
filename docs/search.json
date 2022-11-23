@@ -4,21 +4,14 @@
     "href": "index.html",
     "title": "ZULE Lab Policies & Resources",
     "section": "",
-    "text": "Template literature base using quarto.\nIt is structured as a website since quarto books require the chapters to be explicitly listed in the _quarto.yml which doesn’t gel super well with this type of quickly growing literature base. Each file represents a paper, or a topic, or a book, and listing each as a chapter is too cumbersome.\nListing pages are used to show all the pages within the subdirectories, easily searched or sorted."
+    "text": "Website hosting all the important/most commonly used resources from the ZULE Lab. Check the left sidebar (or list below) for different categories, and then click on whatever topic is most relevant to you to get the info!\nIf you want to contribute, you can: - contribute directly through GitHub - make a pull request - message Bella on Zulip and say what you think is missing!"
   },
   {
-    "objectID": "index.html#usage",
-    "href": "index.html#usage",
+    "objectID": "index.html#what-are-you-looking-for",
+    "href": "index.html#what-are-you-looking-for",
     "title": "ZULE Lab Policies & Resources",
-    "section": "Usage",
-    "text": "Usage\n\nFork/copy/get repo\nRemove example tree documents\nReplace with your own documents\nAdjust listing pages relevant to your subdirectory structure\nAdjust _quarto.yml"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "ZULE Lab Policies & Resources",
-    "section": "Resources",
-    "text": "Resources\n\nQuarto websites\n\nListing pages\n\nQuarto GitHub Actions"
+    "section": "What are you looking for?",
+    "text": "What are you looking for?\n\nPolicies\n\nSpatial Resources\nOther Resources"
   },
   {
     "objectID": "index.html#to-do",
