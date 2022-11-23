@@ -11,18 +11,16 @@ listing:
     sort: "file-modified desc"
 ---
 
-Website hosting all the important/most commonly used resources from the ZULE Lab. Check the left sidebar (or list below) for different categories, and then click on whatever topic is most relevant to you to get the info! 
+## Hello! 
+Website hosting all the important/most commonly used resources from the ZULE Lab. Check the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info! 
 
+
+## You're missing something! 
 If you want to contribute, you can: 
 - contribute directly through GitHub
 - make a pull request 
 - message Bella on Zulip and say what you think is missing! 
 
-
-## What are you looking for? 
-- [Policies](../policies.qmd)	
-- [Spatial Resources](../spatial-resources.qmd)
-- [Other Resources](../other-resources.qmd)
 
 ## TO-DO 
 - add commonly used spatial resources
