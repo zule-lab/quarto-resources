@@ -1,0 +1,90 @@
+---
+title: "(Socially-Distant) Orientation for Ziter Lab Members (Grad/PDFs)"
+editor: visual
+---
+
+**\*Note: if you\'re an undergrad, please [see this orientation doc instead](https://docs.google.com/document/d/1FPtVsqnPXDBo33vsEe23jwPYXurQ9uBMNtcyOnK2-oY/edit?usp=sharing)**
+
+\
+**Hi there, welcome to the team!**
+
+\
+This short guide is to get you started in the Ziter Urban Landscape Ecology (ZULE) Lab. We designed this \"online orientation\" during Covid (while we were all working from home), but have found it useful to maintain this online guide to keep everything in one place, even though we\'re now back in the lab. So, please read through this guide carefully as your online orientation to the lab (to be followed by in person meetings when you officially join us, including a time to work through your [mentoring plan](https://docs.google.com/document/d/1sG1wxzTI8knXqrkc9dllL99sFv2rqvw9tb5rv4svM_o/edit?usp=sharing) with Carly).
+
+Our **physical lab space** is in the SP building on Loyola Campus, in room 432.03. For graduate students/PDFs, you will need to request a key, which you can do using this form: <https://www.concordia.ca/offices/facilities/key-request-info/key-request-form.html> (it will take a few weeks for keys to come in). 
+
+Since we\'ve been back and forth between home and the lab for the last few years, our lab also does a lot of communication using online tools that you may or may not be familiar with. In the lab, we often use:
+
+-   **The Lab Google Drive** (where we keep important lab documents, and works in progress)**:** This space includes a general lab folder, as well as sub-folders for specific projects. Right now, you have full access to the lab google drive and the documents in it. **I ask that you please do not modify or delete any files that you have not been asked to work on specifically!**
+
+    -   The lab drive is probably due for a \"clean up\" this summer, so things may shift around a little!
+
+    -   We are working on transitioning some of our lab materials away from google drive and onto the lab [GitHub](https://github.com/zule-lab), so you may be working there (particularly if you are working with data-based projects with graduate students). Depending on your projects, there may be additional shared workspaces with collaborators outside the lab.
+
+-   [**Zoom**](https://zoom.us) (although we\'re mostly back to \"in person\" mode, we sometimes use zoom for \"face to face\" meetings when folks can\'t be on campus. You are probably familiar with Zoom already...). \
+
+```{=html}
+<!-- -->
+```
+-   [**Zulip**](https://zulipchat.com)(our lab \"organizational platform\"). This works a lot like slack, if you\'ve used that before. The lab Zulip workspace is a place we can share links to papers or resources, ask quick questions about projects, discuss daily or weekly tasks, share funny memes, send messages to each other, etc. Think of this as the socially-distant equivalent of asking someone a question in the lab, or popping by my office to talk about something. It\'s a little more casual and flexible than email, and keeps all of our lab conversations organized in one place so that we can revisit them later.  (You should have received an invitation by email to join the lab Zulip, and we often do a little \"tour\" during lab meetings at the beginning of new semesters, as well)
+
+\
+
+-   **Google Calendar:** You will receive an invite to the lab calendar, where you can see any team meetings scheduled (by me, or graduate students in the lab), as well as our weekly group lab meeting. You can also view Carly\'s calendar, where you can check when I am busy with another meeting or scheduled task. Note that while I am still not travelling as much as I usually would, there may be days or weeks that I am at a virtual meeting or conference and will be less available, or that are reserved for course prep and teaching. I try and keep this updated, but note that it\'s occasionally wrong (it doesn\'t always merge properly with my outlook calendar) 
+
+\
+
+-   **Email: You can still contact me or others in the lab via email (although Zulip will be used for most day-to-day lab conversation)**\
+
+If you ever need to contact me quickly (e.g., in an emergency) you can reach me on my cell
+
+Note: for those of you who are co-supervised, we may be using different platforms, or different ways of managing your research. We will sort this out with your supervisory team as we go! \
+
+**This rest of this document is to answer some basic questions about the lab, your jobs, and who to talk to/where to look if you have questions about what to do next.**\
+
+**First, I want to acknowledge up front that this year might be a little weird (again)!** Just like it\'s changed all of our day to day lives and your studies, COVID-19 has also changed the process and pace of doing research. Even though we\'re slowly transitioning back to \"normal\" research in the lab, it\'s still possible that sometimes field projects (or parts of field projects) may shift to more remote work, projects may get off to a slower start than usual, or we may have to shift directions a few times throughout the summer as we understand what is and isn\'t going to be possible. Things may look a little different from what we\'ve originally discussed, and Concordia may also introduce new regulations about the kinds of work you can do, or where you can work from (especially related to fieldwork). That\'s all ok! **Our goals are always to move lab projects forward, while making sure that you all have meaningful research/learning experiences (and get a paycheck, or course credits!).** Thanks in advance to you all for being flexible and open minded as we work together.
+
+\
+
+**Before we go any further, a few ground rules:**
+
+-   The Ziter lab has a lab code of conduct, available [here](../policies/code-of-conduct.qmd) Please read through this document to familiarize yourself with our lab values and expectations for each other. \
+
+**Some FAQ for working in the ZULE lab:**
+
+**What do I need to do to \"officially\" get started?**
+
+-   You should all have filled out paperwork (or be in the process of filling out paperwork) with Carly and/or Concordia to be properly registered in your degree, placement, etc. If you encounter any problems with your course registration, pay check, etc., contact Carly so that we can sort this out (Note: if you are enrolled in a department other than biology, we will likely need to work with your advisor in your home department to sort this kind of stuff out)
+
+-   **Useful contacts:**
+
+    -   **Kelly Pingal is our graduate program assistant, and can help with issues related to registration, courses, etc. for grad students: [biograd.fas\@concordia.ca](mailto:biograd.fas@concordia.ca)**
+
+    -   **Niyusha Samedi is our Postdoctoral Development Coordinator and can help with issues related to PDFs: [niyusha.samadi\@concordia.ca](mailto:niyusha.samadi@concordia.ca)**
+
+**What happens in lab meeting?**
+
+-   Each week during the academic term (Sept - May), we have a lab meeting with the full team (and sometimes some guests from other labs). **We will schedule a time for these meetings as the fall approaches.** At lab meeting, we usually do a quick check in to see how everyone is doing, and discuss any issues or announcements. Then, we\'ll all discuss a paper we\'ve read, or a talk that we\'ve watched, or discuss a professional development topic (like science communication, how to read a paper, best practices for data entry or analysis, etc.). We will decide the topics in advance together. All lab members are expected to lead at least one lab meeting each semester. 
+
+-   For co-supervised students, we can discuss the expectations for attending lab meeting with your co-advisors. This may fluctuate from semester to semester, but I prefer that you attend lab meeting at least a few times per semester, so that you can keep in touch with your labmates and keep us informed of your work. However, please don't feel obligated to attend every week if you are busy with your other lab commitments. 
+
+**When, and how much, should I work?**
+
+-   See the lab code of conduct for more info on flexible working hours, vacation, etc. I also realize that with COVID-19 and most of us working from home (and sometimes from different time zones), work hours may be unusual. This is ok, but please do try and make time to check in with your peers and labmates regularly. This will help reduce feelings of isolation, and is an important support as you complete your work. 
+
+**What if I get sick?**
+
+-   If you\'re feeling sick, please take a sick day(s). You can always make up the work later, and your wellbeing (and the wellbeing of your labmates!) is a priority. This is always true, but particularly so during the current situation, where we should all be taking very good care of our health. If you anticipate needing extended time off, please let someone in the lab know that you\'re unwell, so that we don\'t worry about you, and can make sure that someone else steps in to cover any important tasks if needed. 
+
+```{=html}
+<!-- -->
+```
+-   Similarly, if you have a family emergency, or a similar issue, please take the time you need to deal with it (and let Carly or a labmate know that you need some time away from work). \
+
+**I need something to be able to do my work well**
+
+-   If you need resources (more storage space on your computer, access to a book or article, etc.) to be able to work effectively, please talk to Carly. We can likely arrange something through the lab. 
+
+Ok, that\'s all for now! There will be more updates to come as we all settle into the semester. 
+
+Welcome to the team, and looking forward to a fun year!
