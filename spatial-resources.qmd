@@ -8,3 +8,22 @@ listing:
     page-size: 10
     sort: "file-modified desc"
 ---
+
+## Our Favourite Resources
+
+As a **landscape ecology** lab, a lot of our work (all of our work?) deals with spatial data. Accessing spatial data can seem overwhelming when starting out, but we have compiled a list of spatial data resources that us ZULE members use on the regular! Choose the relevant type/topic of data below to find a list of relevant resources to you.  
+
+
+## Some Great Databases
+
+If you are looking for somewhere to start (other than here), here are some great databases or lists of data sources that can come in handy.  
+-  [Earth Engine Data Catalogue](https://developers.google.com/earth-engine/datasets): incredible catalogue of satellite imagery/remote sensing datasets that are available on Google Earth Engine (and elsewhere)
+- [awesome-gee-community-catalogue](https://gee-community-catalog.org/): MORE amazing datasets available in Google Earth Engine, compiled and created by the GEE community
+- [Concordia's Geospatial Data Subject Guide](https://www.concordia.ca/library/guides/geospatial-data.html): dataset list compiled by Concordia's (excellent) GIS librarian. If you have any GIS related questions, you can always email him! 
+
+Dig in to the links below for more datasets that are specifically used by the ZULE lab
+
+
+## Things are Missing! 
+
+Do you use a spatial dataset all the time that isn't on one of these lists? Please let us know! As mentioned on the home page, you can contribute to these resources as a collaborator on GitHub, by making a pull request, or by messaging Bella and saying what you want added. Thanks for contributing!! 
