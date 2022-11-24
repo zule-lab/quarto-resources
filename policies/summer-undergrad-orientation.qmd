@@ -1,0 +1,154 @@
+---
+title: "Summer Undergrad Orientation"
+editor: visual
+---
+
+## Orientation for Ziter Lab Undergraduates
+
+### Hi there, welcome to the team!
+
+This short guide is to get you started in the Ziter Urban Landscape Ecology (ZULE) Lab for your summer position. We designed this "online orientation" during Covid (while we were all working from home), but have found it useful to maintain this online guide to keep everything in one place, even though we're now back in the lab. So, please read through this guide carefully as your online orientation to the lab (to be followed by in person meetings in the upcoming weeks, when you officially join us).
+
+Our **physical lab space** is in the SP building on Loyola Campus, in room 432.03. For those who will be in the lab regularly, we can request you a key, but for now you should plan to be there while graduate students are in the lab, so that someone can let you in.
+
+Since we've been back and forth between home and the lab for the last few years, our lab also does a lot of communication using online tools that you may or may not be familiar with. In the lab, we often use:
+
+[Zulip](https://zulipchat.com) (our lab "organizational platform"). This works a lot like slack, or kind of like MS teams if you've used those platforms before. The lab Zulip workspace is a place where we can share links to papers or resources, ask quick questions about projects, discuss daily or weekly tasks, share funny memes, send messages to each other, etc. Think of this as the socially-distant equivalent of asking someone a question in the lab, or popping by my office to talk about something. It's a little more casual and flexible than email, and keeps all of our lab conversations organized in one place so that we can revisit them later. (You either have already received an invitation by email to the lab Zulip, or you will receive one shortly!)
+
+The Lab Google Drive (where we keep important lab documents, and works in progress): This space includes a general lab folder, as well as sub-folders for specific projects. Right now, you have full access to the lab google drive and the documents in it. I ask that you please do not modify or delete any files that you have not been asked to work on specifically! The lab drive is probably due for a "clean up" this summer, so things may shift around a little! We are working on transitioning some of our lab materials away from google drive and onto the lab [GitHub](https://github.com/zule-lab), so you may be working there (particularly if you are working with data-based projects with graduate students). Depending on your projects, there may be additional shared workspaces with collaborators outside the lab.
+
+[Zoom](https://zoom.us) (although we'll be in person as much as possible this summer, we sometimes use zoom for "face to face" meetings when folks can't be on campus. You are probably familiar with Zoom from your online classes!).
+
+Google Calendar: You will receive an invite to the lab calendar, where you can see any team meetings scheduled (by me, or graduate students in the lab). During the academic year, we have weekly group lab meetings. In the summer, these are less frequent. You can also view Carly's calendar, where you can check when I am busy with another meeting or scheduled task. Note that I will be doing some traveling (for both work, and personal reasons) throughout the summer, so there will be blocks of time where I am less available.
+
+Email: You can still contact me or other in the lab via email (although Zulip is used for most day-to-day lab conversation)
+
+If you ever need to contact me quickly (e.g., in an emergency, or from the field) you can reach me on my cell
+
+**This rest of this document is to answer some basic questions about the lab, your jobs, and who to talk to/where to look if you have questions about what to do next.**
+
+*First, I want to acknowledge up front that this summer might be a little weird!* Just like it's changed all of our day to day lives and your studies, COVID-19 has also changed the process and pace of doing research. Even though we're slowly transitioning back to "normal" research in the lab, it's still possible that sometimes field projects (or parts of field projects) may shift to more remote work, projects may get off to a slower start than usual, or we may have to shift directions a few times throughout the summer as we understand what is and isn't going to be possible. Things may look a little different from what we've originally discussed, and Concordia may also introduce new regulations about the kinds of work you can do as undergraduates, or where you can work from (especially related to fieldwork). That's all ok! **Our goals for the summer are to move lab projects forward, while making sure that you all have meaningful research/learning experiences (and get a paycheck, or course credits!).** Thanks in advance to you all for being flexible and open minded as we work together this summer!
+
+**Before we go any further, a few ground rules:** The Ziter lab has a [lab code of conduct](../policies/code-of-conduct.qmd). Please read through this document fully to familiarize yourself with our lab values and expectations for each other.
+
+### Some FAQ for working in the ZULE lab:
+
+#### What do I call you?
+
+Most students in the lab call me Carly, and you are welcome to do the same. Some students are uncomfortable with this, and prefer to call me Dr Ziter, Dr Z, Professor, Prof... those are all fine, too.
+
+#### What do I need to do to "officially" get started? How do I get paid?
+
+-   You should all have filled out paperwork (or be in the process of filling out paperwork) with Carly and/or Concordia to understand the terms of your work, and make sure you get paid properly, or are receiving appropriate course credit. This means filling out any paperwork related to CUSRA, NSERC, MITACS (or other) awards, or filling out a TRAC NOH form, or registering for the appropriate SCOL/BIOL/LOYC credits. If you aren't sure if you've done this step (or how you're being paid for the summer), please talk to Carly.
+
+-   With summer payments, there is a possibility it may take an extra week or two for your payments to start (but you will eventually get your full pay). If you anticipate this being a problem, please talk to Carly so we can sort something out. Similarly, if you ever notice a problem with your payments over the summer (you didn't get paid, or your pay seems more or less than it's supposed to be), talk to Carly and we'll get it fixed!
+
+#### Work hours: How much, and when, should I work?
+
+*How much do I work?*
+
+-   Your weekly work hours are based on your individual funding situation (e.g. NSERC, CUSRA, MITACS, other lab funding), and your individual arrangement with Carly.
+
+-   For NSERC and CUSRA funding, the official expectation is 16 weeks at 35 hours per week. However, this funding rate is actually below our QC minimum wage. To ensure that you are compensated fairly, and so that you have a chance to recharge over the summer, our lab policy is to encourage all award students to take a week of vacation during the tenure of your award (i.e., work 15 weeks, rather than 16). This can be all at once, or spread out over the summer (see notes on vacation, below)
+
+    -   *Note: For NSERC students, don't forget to apply to the FQRNT supplement (directions in the linked file above, or ask Carly!)* - For project students (e.g. BIOL490, LOYC398, SCOL391, etc.), the expectation is \~9 hours per week for a 3-credit load. You should consider this similar to the amount of time you would put into a 300 or 400 level lab course.
+
+        -   For Mitacs, you can see the FAQ here: https://www.mitacs.ca/en/globalink/globalink-research-internships/faqs
+
+            -   If you filled out a TRAC NOH form, that form stipulates your number of hours - If in doubt, just ask!
+
+-   There will likely be some flexibility from week to week for all of you, depending how busy your project is, whether you are in the field, etc. If you are expected to work 30 hours per week, for example, there may be some weeks that you only work 25, and others that you work 35. The first few weeks in particular often feel a bit slow as we get things moving, but I promise they'll speed up when you get into the field!
+
+*When do I work?*
+
+-   In terms of your specific weekly schedule, please check in with your project lead(s) to determine what is appropriate. In general, for times when you are working from home or in the lab, I am open to flexible hours (for example, if you'd prefer to work early in the morning and end early, or take some time off in the day and work in the evening, we can discuss that arrangement). However, there may be certain times and tasks that you will need to be available for particular days or hours. This is especially true if you will be doing any work in the field, or in collaboration with other colleagues, as well as for any scheduled meetings. We will discuss this with you in advance. If at any point you anticipate changing your usual days/hours significantly, let someone know so that we know when to expect you to be available.
+
+-   If you are a project student (e.g. working in the lab for course credit), we understand that you may also be working full time throughout the summer. In this case, hours can be more flexible (including evenings/weekends), although there will be some exceptions, for example for fieldwork or for team meetings.
+
+-   *Note (as per the lab policy): since many of us work at different times, you may receive emails or messages outside of your work hours. Please do not feel obligated to answer these until you are back on "work time". For example, if you receive a message in the evening, you can wait until the next day to respond. Similarly, you may email me (or your other colleagues in the lab) at any time, but understand that we may not answer until we are working.*
+
+*How do I track my work?*
+
+-   Since I don't always "see" you working for much of the summer, I trust that you're working the hours that we agreed, and that you can manage your own time well. However, please do make sure that you track your hours! Each of you should keep a log (online, or in a physical notebook) of the hours that you work on each day that you are working.
+
+-   Remember to take a break for lunch! A 30 min lunch break is included in your daily hours, and a few short breaks throughout the day are ok, too. So for example, if you work from 10am to 4pm, and take a break for lunch, and a short afternoon break you still log that day as 6 hours. When in the lab or field, students will often stop and eat lunch together. I'd encourage you to meet for lunch with your fellow summer research assistants at least a few times a week if you can, so you don't miss out on the fun social aspect of being in a lab!
+
+-   Statutory holidays count for the equivalent number of daily hours you are expected to work. For example, if you typically work 35 hours per week, you would receive 7 hours off (paid) for a holiday (35/5 work days per week = 7 hours).
+
+*What if I get sick, or need time off for some other reason?*
+
+-   If you're feeling sick, please take a sick day(s). You can always make up the work later, and your wellbeing is a priority. This is always true, but particularly so during the current situation, where we should all be taking very good care of our health. If you are sick please make sure to let someone in the lab know that you're unwell, so that we don't worry about you, and can make sure that someone else steps in to cover your tasks if needed.
+
+-   If you have a family emergency, or a similar issue, please take the time you need to deal with it (and let your team lead or Carly know that you need some time away from work).
+
+-   If you are planning a vacation, please talk to your team lead, or to Carly so that we can adjust your hours/payment as needed, and ensure that someone can cover any necessary tasks while you are away.
+
+#### Who am I actually working with this summer?
+
+-   Your day to day contacts will look a little bit different for each of you. Most of you will be working closely with a graduate student(s) or postdoc as the "lead" of your project. In that case, that person will be your first point of contact throughout the summer (they will help direct you in your day to day/week to week activities, help you troubleshoot issues, and are who you should contact first if you have questions about what to work on). Some of you will report directly to Carly, or may be working with different people throughout the summer at various points. In general, our lab is a very collegial work environment, and you should always feel comfortable reaching out to graduate students to brainstorm or ask questions about your work. At our first summer team meeting, we'll discuss each person's expertise, but I will also include a broad overview of the major research areas in the lab, here, to help you orient yourself (and remember who's in the lab, since we're a big group!)
+
+-   You'll typically meet with your "lead" regularly throughout the summer (or, you'll be in the field together!) to check in on progress, and help troubleshoot any issues you're having. These meetings may become more or less frequent over the summer depending how things are going.
+
+-   All of you will have a "core" project that you are working on, but we encourage undergraduates to get a diversity of experiences while in the lab. This means that I may ask you to contribute to other projects occasionally. This helps to keep all lab projects moving forward, and gives you a chance to gain new skills and experiences.
+
+### Who's who in the ZULE lab?!
+
+Current lab members are *italicized*, loosely organized by "theme" for the summer. I've indicated incoming lab members in bold (including our new summer undergraduate students, as well as graduate students and postdocs arriving this summer)
+
+**Urban parks fieldwork** - Urban forest ecology, soil ecology, and land use legacies: *Bella* is a PhD student working on the urban forest, and *Michael* is an MSc student working on urban soils. Both Bella and Michael will conduct fieldwork throughout the summer in a number of Montreal parks. Erica and Gabrielle will be assisting with these projects this summer. At the end of June, this team will be joined by Angelina (a Mitacs intern from Germany), and Laura (a Mitacs intern from Colombia)
+
+-   Erica reports to Bella/Michael for general fieldwork tasks and scheduling, and to Bella (and Carly as needed) for her BIOL490 project
+
+-   Gabrielle reports to Bella/Michael for general fieldwork, and to Carly for UrbaNature research/questions
+
+-   Angelina tentatively reports to Michael for fieldwork tasks and scheduling (to be updated)
+
+-   Laura tentatively reports to Bella for fieldwork tasks and scheduling (to be updated)
+
+**Co-benefits of nature-based solutions for climate resilience and biodiversity:**
+
+*Kayleigh* is a research associate (and recent MSc graduate) working on biodiversity (especially birds) and ecosystem services of the urban forest, alongside our collaborator Dr. Barbara Frei (who works for Environment and Climate Change Canada). She will be doing primarily literature-based work this summer, but is excellent at tree-ID, and a great resource for learning field techniques. Two new team members will join us to work in this area. *Riikka Kinnunen* is a new postdoc who will start in July, and incoming MSc student *Chloe Cull* will arrive in August to begin an MSc with us in September.
+
+-   Some of our undergraduate team members may help Kayleigh (or others) out with tasks this summer if needed
+
+**Green Infrastructure and ecosystem services (DesignLifes NSERC Create project):**
+
+*Fatemeh* is a PhD student working on walkability through a lens of urban greening and thermal comfort. She is on maternity leave this summer. Lingshan is a PhD student working on the effect of urban greening (including green space structure and quality) on urban microclimates. Both Fatemeh and Lingshan are co-supervised within Concordia's Next Gen Cities Institute, and are part of other labs in addition to ours. Urban planning undergrad *Niraj* will continue part time in the lab with his meta-analysis on green roofs. Nicole will join us this August to begin an MSc on green infrastructure in September. - Niraj will continue to report to Carly as team lead
+
+**Forest entomology:**
+
+*Noa* is a PhD student co-advised in the Despland lab working on Spongy Moth outbreaks in peri-urban forests (at Oka and Mont St Bruno). She will likely be joined later this summer by Victoria, a Mitacs intern from Vanier college, as well as summer interns in the Despland lab. Lab undergraduates may have opportunities to help Noa in the field this summer and fall.
+
+**What happens in lab meetings?**
+
+-   This summer, we will not have our usual weekly lab meetings, but will meet for a lab lunch at Loyola campus on the 3rd Friday of each month (May 20, June 17, Jul 15...) to catch up and hear from all of our various teams. We also often have social activities (lab BBQs, etc. throughout the summer to get everyone together). Social activities are always optional, but lots of fun! - For those of you continuing during the academic year, we have a lab meeting each week with the full team (and sometimes some guests from other labs at Concordia or elsewhere). At lab meetings, we usually do a quick check in to see how everyone is doing, and discuss any issues or announcements. Then, we'll all discuss a paper we've read, or a talk that we've watched, or discuss a professional development topic (like science communication, how to read a paper, best practices for data entry or analysis, etc.). We will decide the topics in advance together. Preparing for lab meeting (for example, reading papers or watching talks) and attending lab meeting counts as part of your work/study hours. You are expected to attend when you can, but fieldwork or other time-sensitive tasks take priority! - Also during the academic year, the students in the lab run a peer-writing-group, where they review and discuss each-others writing. This can be a great activity to join if you want to improve your writing skills.
+
+**What do I do if I have some "down time" (e.g. you're finished what you're working on, or don't have a task for the day/week yet... but still want to work or need to fill your hours?)**
+
+-   First, reach out to your team lead. If they don't have any tasks for you, you can reach out to the broader lab on Zulip to ask if anybody needs some extra help that week. There are often tasks that can use an extra set of hands!
+
+    -   If nobody needs you right away, a really important part of research is developing your reading skills, and familiarizing yourself with the literature. We will set up "reading lists" for several core areas in the lab (for example, here's a previous list on trees) in the google drive, and will continue to update these with additional material. If you aren't sure where to start, pick one that looks interesting, or talk to students working in a similar area for a suggestion! There is also a general urban ecology reading list in the drive, if you would like to read more broadly. If you don't have anything to do, do some reading. Reading will be especially important in the first few days/weeks, since projects may be off to a slow start as we all transition into summer, and it's important to familiarize yourself with the field you'll be working in.
+
+        -   **So how do you read a paper?** This may seem like a silly question, but reading scientific papers actually takes some practice, especially if you haven't done much of this in your courses yet. This is always a great discussion for a lab meeting, but here are a few useful articles:
+
+            -   https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
+
+            -   https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b\_5501628
+
+        -   **Don't worry if it takes you a long time (like, several hours!) to properly and thoroughly read a scientific paper - that's totally normal. You should be reading carefully, and taking notes on pieces you don't understand or you find especially interesting, so that you can follow up later. This is especially true for those of you doing work for credit, or working on a research project**
+
+        -   We also have a number of textbooks available in the virtual lab library on the Google Drive
+
+        -   You can also work a shorter week, and "bank" some hours for a long day in the field later, for example.
+
+**I need something to be able to do my work well**
+
+-   If you need resources (more storage space on your computer, access to a specific book or article, a borrowed tablet or laptop, etc.) to be able to work effectively, please talk to Carly. We may be able to arrange something through the lab.
+
+**I have more questions!**
+
+-   Write all of your questions down for later. If it's a general question about the lab or your projects, you can ask in the "undergraduates" stream of the Zulip once you're set up there. If it's a question about paperwork/payment/hours, you can ask Carly directly (via Zulip direct message, or an email)
+
+Ok, that's all for now! Your team leads or I will be working on some short "intro" tasks for each of you to get you started. So, you should all have some activities to get started on soon after your work term starts in the lab... For those of you who have already started, you can also start familiarizing yourself with the online tools listed at the top of this document, or dig into a paper from your reading lists! There will be more updates to come as we all settle in.
+
+Welcome to the team, and looking forward to a fun summer!

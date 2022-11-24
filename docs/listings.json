@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/policies/summer-undergrad-orientation.html",
       "/policies/msc-proposal-outline.html",
       "/spatial-resources/building-data.html",
       "/spatial-resources/tree-data.html",
@@ -19,6 +20,7 @@
   {
     "listing": "/policies.html",
     "items": [
+      "/policies/summer-undergrad-orientation.html",
       "/policies/msc-proposal-outline.html",
       "/policies/individual-mentoring-plan.html",
       "/policies/code-of-conduct.html"
