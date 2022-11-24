@@ -1,0 +1,36 @@
+---
+title: "Green Infrastructure Reading List"
+editor: visual
+---
+
+**Green Infrastructure Reading List** (Nicole, and others who find it useful)
+
+Beninde \"Biodiversity in cities needs space: a meta-analysis of factors determining intra-urban biodiversity variation\": <https://onlinelibrary.wiley.com/doi/full/10.1111/ele.12427> 
+
+-   A good general meta-analysis on what supports urban biodiversity, including factors like patch size and corridors that may be interesting to you. Good background reading on urban biodiversity
+
+Filazolla \"The contribution of constructed green infrastructure to urban biodiversity: A synthesis and meta-analysis\" <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13475> 
+
+-   A good general overview of green infrastructure and biodiversity. Some really good \"future directions\" for urban green infrastructure studies here, and considerations when thinking about methodology
+
+-   Probably lots of good resources in the reference list
+
+Cameron \"Green infrastructure and ecosystem services -- is the devil in the detail?\": <https://academic.oup.com/aob/article/118/3/377/1741564> 
+
+-   a good read on green infrastructure and the importance of considering vegetation identity/composition/structure (and not just \"greenness\" in general)
+
+Brzoska \"From City- to Site-Dimension: Assessing the Urban Ecosystem Services of Different Types of Green Infrastructure\" <https://www.mdpi.com/2073-445X/9/5/150> 
+
+-   highlights the importance of considering green infrastructure beyond just urban parks or preserves
+
+Haaland \"Challenges and strategies for urban green-space planning in cities undergoing densification: A review\": <https://www.sciencedirect.com/science/article/abs/pii/S161886671500103X> 
+
+-   highlights the benefits of greening formerly \"grey\" infrastructure (e.g. small-scale community greening efforts like Ruelles, etc. have the potential to extend the ecological fabric of our cities without sacrificing the urban density required to meet other urban sustainability goals). Good rationale/background reading
+
+Lowenstein & Minor \"Diversity in flowering plants and their characteristics: integrating humans as a driver of urban floral resources\": <https://link.springer.com/article/10.1007/s11252-016-0563-z> 
+
+-   a good read on ways of characterizing different urban flora that may be applicable to small green infrastructure sites
+
+Vergnes \"Green corridors in urban landscapes affect the arthropod communities of domestic gardens\": <https://www.sciencedirect.com/science/article/pii/S0006320711004009> 
+
+-   I haven\'t read this one, but looks like it might be useful for thinking about the role of corridors/connectivity re: urban fauna

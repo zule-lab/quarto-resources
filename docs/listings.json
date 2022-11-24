@@ -2,6 +2,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/other-resources/urban-forest-biodiversity-reading-list.html",
+      "/other-resources/urban-ecology-reading-list.html",
+      "/other-resources/gi-reading-list.html",
+      "/other-resources/soil-reading-list.html",
       "/policies/online-grad-orientation.html",
       "/policies/summer-undergrad-orientation.html",
       "/policies/msc-proposal-outline.html",
@@ -16,7 +20,12 @@
   },
   {
     "listing": "/other-resources.html",
-    "items": []
+    "items": [
+      "/other-resources/urban-forest-biodiversity-reading-list.html",
+      "/other-resources/urban-ecology-reading-list.html",
+      "/other-resources/gi-reading-list.html",
+      "/other-resources/soil-reading-list.html"
+    ]
   },
   {
     "listing": "/policies.html",
