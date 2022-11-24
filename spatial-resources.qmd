@@ -17,9 +17,12 @@ As a **landscape ecology** lab, a lot of our work (all of our work?) deals with 
 ## Some Great Databases
 
 If you are looking for somewhere to start (other than here), here are some great databases or lists of data sources that can come in handy.  
--  [Earth Engine Data Catalogue](https://developers.google.com/earth-engine/datasets): incredible catalogue of satellite imagery/remote sensing datasets that are available on Google Earth Engine (and elsewhere)
-- [awesome-gee-community-catalogue](https://gee-community-catalog.org/): MORE amazing datasets available in Google Earth Engine, compiled and created by the GEE community
-- [Concordia's Geospatial Data Subject Guide](https://www.concordia.ca/library/guides/geospatial-data.html): dataset list compiled by Concordia's (excellent) GIS librarian. If you have any GIS related questions, you can always email him! 
+
+-   [Earth Engine Data Catalogue](https://developers.google.com/earth-engine/datasets): incredible catalogue of satellite imagery/remote sensing datasets that are available on Google Earth Engine (and elsewhere)
+-   [awesome-gee-community-catalogue](https://gee-community-catalog.org/): MORE amazing datasets available in Google Earth Engine, compiled and created by the GEE community
+-   [Concordia's Geospatial Data Subject Guide](https://www.concordia.ca/library/guides/geospatial-data.html): dataset list compiled by Concordia's (excellent) GIS librarian. If you have any GIS related questions, you can always email him! 
+-   [Montréal Open Data Portal](https://donnees.montreal.ca/): Open data published by the city of Montréal (other cities have these too!)
+
 
 Dig in to the links below for more datasets that are specifically used by the ZULE lab
 

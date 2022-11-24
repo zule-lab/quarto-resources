@@ -2,12 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
+      "/policies/msc-proposal-outline.html",
       "/spatial-resources/building-data.html",
       "/spatial-resources/tree-data.html",
       "/spatial-resources/remote-sensing.html",
       "/spatial-resources/montreal-data.html",
       "/spatial-resources/census.html",
-      "/policies/msc-proposal-outline.html",
       "/policies/individual-mentoring-plan.html",
       "/policies/code-of-conduct.html"
     ]

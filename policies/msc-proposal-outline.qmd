@@ -31,9 +31,9 @@ What do we already know? This is where you synthesize the key literature in your
 
 What don't we know? The idea behind synthesizing known literature is to lead the reader to a clear knowledge gap. This is where your work will contribute to push this field forward
 
-## Objective/Research Questions  
+## Objective/Research Questions
 
-*🡨 this is what drives the proposal! Your whole introduction is leading to this point*
+**🡨 this is what drives the proposal! Your whole introduction is leading to this point**
 
 You may want to start with a broad research question/objective, and then break this down into more specific sub-questions. These should address the knowledge gap identified in the introduction, and be testable (e.g. you should be able to address them with data!)
 
@@ -41,7 +41,7 @@ You may want to start with a broad research question/objective, and then break t
 
 These can be beneath your research questions, or in a separate (sub)section labeled hypotheses.
 
-## Methods  
+## Methods
 
 **🡨 Once you have your key objectives/research questions worked out, you can develop methods that are appropriate to answer them!**
 
