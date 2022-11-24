@@ -1,53 +1,23 @@
 ---
-title: "Untitled"
+title: "MSc Proposal Outline"
 editor: visual
 ---
 
-
-
-
-
-
-
 # Title Page
-
-
-
 
 Your thesis title goes here (a working title is fine at this point)
 
 Committee Proposal
 
-
 Your Name
 
+Supervised by Dr. Carly Ziter (Department of Biology, Concordia University) Dr. Co-Advisor (Department of X, University Y)
 
-Supervised by
-Dr. Carly Ziter (Department of Biology, Concordia University)
-Dr. Co-Advisor (Department of X, University Y)
+Committee Dr. ... (Department of X, University Y) Dr. ... (Department of X, University Y)
 
+# Proposal Body
 
-Committee
-Dr. … (Department of X, University Y)
-Dr. … (Department of X, University Y)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Proposal Body 
-
-Your proposal should be ~5 pages of single-spaced text, excluding references. You can include figures if they’re helpful, but you don’t need to. Your proposal should include an *introduction, research questions, methods, and implications*. The purpose of each section is outlined briefly below. 
+Your proposal should be \~5 pages of single-spaced text, excluding references. You can include figures if they're helpful, but you don't need to. Your proposal should include an *introduction, research questions, methods, and implications*. The purpose of each section is outlined briefly below.
 
 ## Introduction
 
@@ -55,19 +25,13 @@ This is where you introduce the relevant background for your project. It should 
 
 The introduction should tell the reader:
 
-What is the big picture context of your research?
-Why is this work important/worth doing? What are the motivating factors? (This can be theoretical, or practical/applied, or both)
-The scale of this “big picture” should match the scale of the implications your work might have
-This is a good place place to cite major review papers or foundational papers in your research area
+What is the big picture context of your research? Why is this work important/worth doing? What are the motivating factors? (This can be theoretical, or practical/applied, or both) The scale of this "big picture" should match the scale of the implications your work might have This is a good place place to cite major review papers or foundational papers in your research area
 
-What do we already know?
-This is where you synthesize the key literature in your field. You don’t need to include everything that is known about the broad topic, but should focus on studies that are relevant for the questions you’re asking
-Each paragraph should have a clear topic sentence, and then develop that area
+What do we already know? This is where you synthesize the key literature in your field. You don't need to include everything that is known about the broad topic, but should focus on studies that are relevant for the questions you're asking Each paragraph should have a clear topic sentence, and then develop that area
 
-What don’t we know?
-The idea behind synthesizing known literature is to lead the reader to a clear knowledge gap. This is where your work will contribute to push this field forward 
+What don't we know? The idea behind synthesizing known literature is to lead the reader to a clear knowledge gap. This is where your work will contribute to push this field forward
 
- ## Objective/Research Questions *🡨 this is what drives the proposal! Your whole introduction is leading to this point*
+\## Objective/Research Questions *🡨 this is what drives the proposal! Your whole introduction is leading to this point*
 
 You may want to start with a broad research question/objective, and then break this down into more specific sub-questions. These should address the knowledge gap identified in the introduction, and be testable (e.g. you should be able to address them with data!)
 
@@ -75,16 +39,15 @@ You may want to start with a broad research question/objective, and then break t
 
 These can be beneath your research questions, or in a separate (sub)section labeled hypotheses.
 
-
 ## Methods 🡨 Once you have your key objectives/research questions worked out, you can develop methods that are appropriate to answer them!
 
-*Note: You may not have all of your methods totally fleshed out with the first draft of your proposal, but it’s good to start developing them. In some cases, you may be choosing between a few different methods. That’s ok, and can be a good question to talk about at a committee meeting. The goal is to have a draft of potential methods by your committee meeting, and your methods fully developed/decided on before the field (or lab/analysis/etc.) season in the summer.*
+*Note: You may not have all of your methods totally fleshed out with the first draft of your proposal, but it's good to start developing them. In some cases, you may be choosing between a few different methods. That's ok, and can be a good question to talk about at a committee meeting. The goal is to have a draft of potential methods by your committee meeting, and your methods fully developed/decided on before the field (or lab/analysis/etc.) season in the summer.*
 
 Your methods section will likely have multiple sub-sections. E.g:
 
 ### **Study System**
 
-Where are you working (e.g. describe the city/neighbourhood/habitat types, etc.). Why is this a good system to ask the question you’re asking? (You can see examples of this kind of section in many published papers…)
+Where are you working (e.g. describe the city/neighbourhood/habitat types, etc.). Why is this a good system to ask the question you're asking? (You can see examples of this kind of section in many published papers...)
 
 ### ***Approach (Fieldwork, GIS, etc.)***
 
@@ -92,11 +55,10 @@ How will you approach this work? If doing a field season, which variables will y
 
 ### ***Statistical Analysis***
 
-How will you analyze your data? Even if you don’t know the exact analyses you will use (yet), think about the *kinds* of statistics you will use. Multivariate methods? Linear models? Spatial statistics? Etc.
-
+How will you analyze your data? Even if you don't know the exact analyses you will use (yet), think about the *kinds* of statistics you will use. Multivariate methods? Linear models? Spatial statistics? Etc.
 
 ## Implications
 
 What are the main implications of your proposed work? What will we have learned/gained when you answer your research questions?
 
-I’d encourage you to think about at least one *scientific* implication (how will this work contribute to major questions/hypotheses/etc. in your field), and at least one *applied* implication (how might your results inform a field of practice? E.g. conservation/ management/ policy/ planning…). This can be a relatively short section, but try to be concrete/specific here.
+I'd encourage you to think about at least one *scientific* implication (how will this work contribute to major questions/hypotheses/etc. in your field), and at least one *applied* implication (how might your results inform a field of practice? E.g. conservation/ management/ policy/ planning...). This can be a relatively short section, but try to be concrete/specific here.
