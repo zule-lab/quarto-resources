@@ -70,11 +70,11 @@
     "text": "Introduction\nThis is where you introduce the relevant background for your project. It should start relatively broad, and lead the reader to your specific objective/research questions.\nThe introduction should tell the reader:\nWhat is the big picture context of your research? Why is this work important/worth doing? What are the motivating factors? (This can be theoretical, or practical/applied, or both) The scale of this “big picture” should match the scale of the implications your work might have This is a good place place to cite major review papers or foundational papers in your research area\nWhat do we already know? This is where you synthesize the key literature in your field. You don’t need to include everything that is known about the broad topic, but should focus on studies that are relevant for the questions you’re asking Each paragraph should have a clear topic sentence, and then develop that area\nWhat don’t we know? The idea behind synthesizing known literature is to lead the reader to a clear knowledge gap. This is where your work will contribute to push this field forward"
   },
   {
-    "objectID": "policies/msc-proposal-outline.html#objectiveresearch-questions-this-is-what-drives-the-proposal-your-whole-introduction-is-leading-to-this-point",
-    "href": "policies/msc-proposal-outline.html#objectiveresearch-questions-this-is-what-drives-the-proposal-your-whole-introduction-is-leading-to-this-point",
+    "objectID": "policies/msc-proposal-outline.html#objectiveresearch-questions",
+    "href": "policies/msc-proposal-outline.html#objectiveresearch-questions",
     "title": "MSc Proposal Outline",
-    "section": "Objective/Research Questions 🡨 this is what drives the proposal! Your whole introduction is leading to this point",
-    "text": "Objective/Research Questions 🡨 this is what drives the proposal! Your whole introduction is leading to this point\nYou may want to start with a broad research question/objective, and then break this down into more specific sub-questions. These should address the knowledge gap identified in the introduction, and be testable (e.g. you should be able to address them with data!)\n\nHypotheses/predictions\nThese can be beneath your research questions, or in a separate (sub)section labeled hypotheses."
+    "section": "Objective/Research Questions",
+    "text": "Objective/Research Questions\n🡨 this is what drives the proposal! Your whole introduction is leading to this point\nYou may want to start with a broad research question/objective, and then break this down into more specific sub-questions. These should address the knowledge gap identified in the introduction, and be testable (e.g. you should be able to address them with data!)\n\nHypotheses/predictions\nThese can be beneath your research questions, or in a separate (sub)section labeled hypotheses."
   },
   {
     "objectID": "policies/msc-proposal-outline.html#methods",
