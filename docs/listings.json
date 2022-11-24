@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/policies/msc-proposal-outline.html",
       "/policies/individual-mentoring-plan.html",
       "/policies/code-of-conduct.html"
     ]
@@ -13,6 +14,7 @@
   {
     "listing": "/policies.html",
     "items": [
+      "/policies/msc-proposal-outline.html",
       "/policies/individual-mentoring-plan.html",
       "/policies/code-of-conduct.html"
     ]

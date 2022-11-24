@@ -8,3 +8,9 @@ listing:
     page-size: 10
     sort: "file-modified desc"
 ---
+
+## Lab Policies
+
+The ZULE Lab has a Code of Conduct, which is linked below. You can also find an individual mentoring plan, that you can fill out and discuss with Carly on a semester-ish basis. You will also find an MSc proposal outline, to help guide your proposal writing! 
+
+All files are linked below.
