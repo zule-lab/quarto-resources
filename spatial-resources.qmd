@@ -30,3 +30,5 @@ Dig in to the links below for more datasets that are specifically used by the ZU
 ## Things are Missing! 
 
 Do you use a spatial dataset all the time that isn't on one of these lists? Please let us know! As mentioned on the home page, you can contribute to these resources as a collaborator on GitHub, by making a pull request, or by messaging Bella and saying what you want added. Thanks for contributing!! 
+
+## Resources
