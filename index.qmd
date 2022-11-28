@@ -1,6 +1,6 @@
 ---
 title: "ZULE Lab Policies & Resources"
-author: "Isabella C. Richmond + Alec L. Robitaille"
+author: "Isabella C. Richmond + Nicole + Alec L. Robitaille"
 date: "`r Sys.Date()`"
 listing:
   - contents: "*/**qmd"
@@ -17,7 +17,7 @@ This website is for hosting all the important/most commonly used resources from 
 
 ## You're missing something!
 
-If you want to contribute, you can  
+If you want to contribute, you can
 
 -   contribute directly as a collaborator through GitHub
 -   make a pull request
