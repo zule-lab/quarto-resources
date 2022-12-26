@@ -81,7 +81,7 @@
     "href": "other-resources.html",
     "title": "Other Resources",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nModified\n\n\n\n\n\n\nCross-City Ecosystem Services Reading List\n\n\n2022-12-12\n\n\n\n\nMontréal Eco-Organizations Database\n\n\n2022-11-24\n\n\n\n\nUrban Forest Biodiversity Reading List\n\n\n2022-11-24\n\n\n\n\nUrban Ecology Reading List\n\n\n2022-11-24\n\n\n\n\nGreen Infrastructure Reading List\n\n\n2022-11-24\n\n\n\n\nSoil Reading List\n\n\n2022-11-24\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nModified\n\n\n\n\n\n\nSammpling method readings\n\n\n2022-12-23\n\n\n\n\nCross-City Ecosystem Services Reading List\n\n\n2022-12-23\n\n\n\n\nUrban Ecology Reading List\n\n\n2022-11-29\n\n\n\n\nUrban Forest Biodiversity Reading List\n\n\n2022-11-29\n\n\n\n\nSoil Reading List\n\n\n2022-11-29\n\n\n\n\nMontréal Eco-Organizations Database\n\n\n2022-11-29\n\n\n\n\nGreen Infrastructure Reading List\n\n\n2022-11-29\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "policies/code-of-conduct.html",
@@ -151,7 +151,7 @@
     "href": "policies.html",
     "title": "Policies",
     "section": "",
-    "text": "The ZULE Lab has a Code of Conduct, which is linked below. You can also find an individual mentoring plan, that you can fill out and discuss with Carly on a semester-ish basis. You will also find an MSc proposal outline, to help guide your proposal writing!\nAll files are linked below."
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nModified\n\n\n\n\n\n\nMSc Proposal Outline\n\n\n2022-11-29\n\n\n\n\n(Socially-Distant) Orientation for Ziter Lab Members (Grad/PDFs)\n\n\n2022-11-29\n\n\n\n\nSummer Undergrad Orientation\n\n\n2022-11-29\n\n\n\n\nLab Individual Mentoring Plan\n\n\n2022-11-29\n\n\n\n\nLab Code of Conduct and Policies\n\n\n2022-11-29\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "spatial-resources.html",
@@ -180,5 +180,26 @@
     "title": "Spatial Resources",
     "section": "Resources",
     "text": "Resources"
+  },
+  {
+    "objectID": "spatial-resources/building-data.html",
+    "href": "spatial-resources/building-data.html",
+    "title": "Building Data",
+    "section": "",
+    "text": "Source: Microsoft?\n\nFormat: GeoJSON\n\nLink: https://github.com/microsoft/CanadianBuildingFootprints\n\nThis dataset contains 11,842,186 computer generated building footprints in all Canadian provinces and territories. This data is freely available for download and use."
+  },
+  {
+    "objectID": "spatial-resources/road-data.html",
+    "href": "spatial-resources/road-data.html",
+    "title": "Road data",
+    "section": "",
+    "text": "Source: City of Montréal, Open data Portal\n\nFormats: SHP, GeoJSON, CSV\n\nDate created: 2018/08/17\n\nDate last modified: 2019/05/06\n\nLink: http://donnees.ville.montreal.qc.ca/dataset/voirie-actif\n\nAll roadways, traffic islands, intersections, sidewalks and off-road zones"
+  },
+  {
+    "objectID": "other-resources/sampling-methods-reading-list.html",
+    "href": "other-resources/sampling-methods-reading-list.html",
+    "title": "Sammpling method readings",
+    "section": "",
+    "text": "Measuring Arthropod Diversity - A Handbook of Sampling Methods\n\nJean Carlos Santos & Geraldo Wilson Fernande (Editors)\n\n2021\n\nspringer\nLink | ===========================================+ https://doi.org/10.1007/978-3-030-53226-0 | |"
   }
 ]

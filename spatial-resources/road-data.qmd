@@ -1,0 +1,18 @@
+---
+title: "Road data"
+editor: visual
+---
+
+## Complete Road Assets
+
+Source: City of Montréal, Open data Portal\
+
+Formats: SHP, GeoJSON, CSV\
+
+Date created: 2018/08/17\
+
+Date last modified: 2019/05/06\
+
+Link: <http://donnees.ville.montreal.qc.ca/dataset/voirie-actif>\
+
+All roadways, traffic islands, intersections, sidewalks and off-road zones\
