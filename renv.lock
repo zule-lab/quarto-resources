@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.1.3",
+    "Version": "4.2.2",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -297,10 +297,7 @@
       "Package": "renv",
       "Version": "0.14.0-8",
       "Source": "Repository",
-      "Repository": "https://rstudio.r-universe.dev",
-      "RemoteUrl": "https://github.com/rstudio/renv",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "4642f5dc7058e067438966ef99a28c0b84fd87c8",
+      "Repository": "CRAN",
       "Hash": "c59612d0c340aa55ed11b6cec9024711"
     },
     "rlang": {
@@ -312,13 +309,10 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.11.3",
+      "Version": "2.18",
       "Source": "Repository",
-      "Repository": "https://rstudio.r-universe.dev",
-      "RemoteUrl": "https://github.com/rstudio/rmarkdown",
-      "RemoteRef": "HEAD",
-      "RemoteSha": "5a3e941bbebf14c1a1a797125ffc414f61edc664",
-      "Hash": "1aac29525915d46889d1c1a603d1bca3"
+      "Repository": "CRAN",
+      "Hash": "8063c4e953cefb651e8cd58c82c82d2d"
     },
     "rstudioapi": {
       "Package": "rstudioapi",
