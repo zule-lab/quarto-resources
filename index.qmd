@@ -1,6 +1,6 @@
 ---
 title: "ZULE Lab Policies & Resources"
-author: "Isabella C. Richmond + Nicole + Alec L. Robitaille"
+author: "Isabella C. Richmond + Nicole Yu + Alec L. Robitaille"
 date: "`r Sys.Date()`"
 listing:
   - contents: "*/**qmd"
