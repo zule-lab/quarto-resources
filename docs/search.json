@@ -186,7 +186,7 @@
     "href": "spatial-resources/01-building-data.html",
     "title": "Building Data",
     "section": "",
-    "text": "Source: Microsoft?\n\nFormat: GeoJSON\n\nLink: https://github.com/microsoft/CanadianBuildingFootprints\n\nThis dataset contains 11,842,186 computer generated building footprints in all Canadian provinces and territories. This data is freely available for download and use."
+    "text": "There are various sources of building data across Canada. Some of the most useful sources for the ZULE Lab are listed below:"
   },
   {
     "objectID": "spatial-resources/05-road-data.html",

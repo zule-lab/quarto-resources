@@ -3,12 +3,13 @@ title: "Building Data"
 editor: visual
 ---
 
-## Canadian Building Footprints (polygons)
+There are various sources of building data across Canada. Some of the most useful sources for the ZULE Lab are listed below:
 
-Source: Microsoft?\
+| Dataset                      | Organization                  | Description                                                                                                                                                            | Date                   | File Format       | Link                                                                          |
+|------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------|-------------------------------------------------------------------------------|
+| Canadian Building Footprints | Microsoft                     | This dataset contains 11,842,186 computer generated building footprints in all Canadian provinces and territories. This data is freely available for download and use. | 2023 (ongoing)         | GeoJSON           | <https://github.com/microsoft/CanadianBuildingFootprints>                     |
+| Bâtiments                    | City of Montreal              | Geometric and conventional representation of building roofs in 2.5D plan.                                                                                              | 2016                   | SHP, GeoJSON      | <https://donnees.montreal.ca/ville-de-montreal/batiment-2d>                   |
+| Bâtiments Vacants            | Ville-Marie, City of Montreal | Inventory of vacant buildings located in the borough of Ville-Marie.                                                                                                   | 2020, 2016, 2015, 2013 | CSV, SHP, GeoJSON | <https://donnees.montreal.ca/ville-de-montreal/batiments-vacants-ville-marie> |
+| Sites et immeubles protégés  | City of Montreal, Quebec      | Protected sites and buildings according to the Cultural Heritage Act                                                                                                   | Ongoing                | SHP, GeoJSON      | <https://donnees.montreal.ca/ville-de-montreal/sites-immeubles-proteges-lpc>  |
 
-Format: GeoJSON\
-
-Link: <https://github.com/microsoft/CanadianBuildingFootprints>\
-
-This dataset contains 11,842,186 computer generated building footprints in all Canadian provinces and territories. This data is freely available for download and use.
+## 
