@@ -2,3 +2,21 @@
 title: "Remote Sensing/Satellite Imagery"
 editor: visual
 ---
+
+There are various sources of remote sensing data across Canada. A lot of this data is available in Google Earth Engine, which is often a great option for processing this type of data. Some of the most useful sources for the ZULE Lab are listed below:
+
+| Dataset | Organization | Description | Date | File Format | Link |
+|---------|--------------|-------------|------|-------------|------|
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+
+## 
