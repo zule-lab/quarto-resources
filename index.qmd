@@ -1,32 +1,3 @@
----
-title: "ZULE Lab Policies & Resources"
-author: "Isabella C. Richmond + Nicole Yu + Alec L. Robitaille"
-date: "`r Sys.Date()`"
-listing:
-  - contents: "*/**qmd"
-    type: table
-    fields: [title, file-modified]
-    date-format: iso
-    max-items: 5
-    sort: "file-modified desc"
----
 
-## Hello!
 
-This website is for hosting all the important/most commonly used resources from the ZULE Lab. Check the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!
-
-## You're missing something!
-
-If you want to contribute, you can
-
--   contribute directly as a collaborator through GitHub
--   make a pull request
--   message Bella on Zulip and say what you think is missing!
-
-## TO-DO
-
--   add commonly used spatial resources
--   add links to intro reading lists
--   check Drive for other introductory materials which should go here
-
-## Recently modified pages
+{{< include README.md >}}

@@ -1,12 +1,10 @@
 ---
 title: "Policies"
-listing: 
-  - contents: policies
-    type: table
-    fields: [title, file-modified]
-    date-format: iso
-    page-size: 10
-    sort: "file-modified desc"
+listing:
+  type: table
+  sort:
+    - "title asc"
+  fields: [title, date, author]
 ---
 
 ## Lab Policies

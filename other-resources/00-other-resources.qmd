@@ -1,0 +1,8 @@
+---
+title: "Other Resources"
+listing:
+  type: table
+  sort:
+    - "title asc"
+  fields: [title, date, author]
+---

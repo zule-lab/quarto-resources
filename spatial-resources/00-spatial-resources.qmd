@@ -1,12 +1,10 @@
 ---
 title: "Spatial Resources"
-listing: 
-  - contents: spatial-resources
-    type: table
-    fields: [title, file-modified]
-    date-format: iso
-    page-size: 10
-    sort: "file-modified desc"
+listing:
+  type: table
+  sort:
+    - "title asc"
+  fields: [title, date, author]
 ---
 
 ## Our Favourite Resources

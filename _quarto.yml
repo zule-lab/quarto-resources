@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  execute-dir: project
+
 
 website:
   page-navigation: true
@@ -14,15 +16,58 @@ website:
         href: https://github.com/zule-lab/quarto-resources
   sidebar:
     contents:
-      - index.qmd
-      - policies.qmd
-      - spatial-resources.qmd
-      - other-resources.qmd
-
+      - href: index.qmd
+        text: Home
+      - section: "Lab Policies"
+        href: policies/00-policies.qmd
+        contents:
+          - href: policies/01-code-of-conduct.qmd
+            text: Lab Code of Conduct
+          - href: policies/02-individual-mentoring-plan.qmd
+            text: Individual Mentoring Plan
+          - href: policies/03-online-grad-orientation.qmd
+            text: Online Graduate Student Orientation
+          - href: policies/04-summer-undergrad-orientation.qmd
+            text: Summer Undergraduate Student Orientation
+          - href: policies/05-msc-proposal-outline.qmd
+            text: MSc Proposal Outline Example
+      - section: "Spatial Resources"
+        href: spatial-resources/00-spatial-resources.qmd
+        contents:
+          - href: spatial-resources/01-building-data.qmd
+            text: Building Data
+          - href: spatial-resources/02-census.qmd
+            text: Census Data
+          - href: spatial-resources/03-montreal-data.qmd
+            text: Montreal Data
+          - href: spatial-resources/04-remote-sensing.qmd
+            text: Remote Sensing Data
+          - href: spatial-resources/05-road-data.qmd
+            text: Road Data
+          - href: spatial-resources/06-tree-data.qmd
+            text: Tree data
+      - section: "Other Resources"
+        href: other-resources/00-other-resources.qmd
+        contents:
+          - href: other-resources/01-cross-city-es-reading-list.qmd
+            text: Cross-City Ecosystem Services Reading List
+          - href: other-resources/02-gi-reading-list.qmd
+            text: Green Infrastructure Reading List
+          - href: other-resources/03-mtl-ecoorganizations.qmd
+            text: Montreal Eco-Organizations List
+          - href: other-resources/04-sampling-methods-reading-list.qmd
+            text: Sampling Methods Reading List
+          - href: other-resources/05-soil-reading-list.qmd
+            text: Soil Reading Lists
+          - href: other-resources/06-urban-ecology-reading-list.qmd
+            text: Urban Ecology Reading List
+          - href: other-resources/07-urban-forest-biodiversity-reading-list.qmd
+            text: Urban Forest Biodiversity Reading List
 
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: flatly
+      dark: darkly
     toc: true
