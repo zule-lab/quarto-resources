@@ -189,6 +189,13 @@
     "text": "There are various sources of building data across Canada. Some of the most useful sources for the ZULE Lab are listed below:"
   },
   {
+    "objectID": "spatial-resources/02-census.html",
+    "href": "spatial-resources/02-census.html",
+    "title": "Census Data",
+    "section": "",
+    "text": "The most recent census data (2021) are linked here, but all previous census data are available in the archives (e.g., 2016, 2011, etc.)\n2021 Boundary Files | Statistics Canada | Digital and cartographic boundary files for provinces/territories, census divisions, federal electoral districts, census subdivisions, designated places, census forward sortation areas (FSA), economic regions, census agricultural regions, census consolidated subdivisions, census metropolitan areas and census agglomerations, census tracts, population centres, dissemination areas, dissemination blocks, aggregate dissemination areas, population ecumene, agricultural ecumene | 2021 | SHP, GML, GDB, WMS | https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21 |"
+  },
+  {
     "objectID": "spatial-resources/05-road-data.html",
     "href": "spatial-resources/05-road-data.html",
     "title": "Road Data",

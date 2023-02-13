@@ -38,7 +38,7 @@ website:
             text: Building Data
           - href: spatial-resources/02-census.qmd
             text: Census Data
-          - href: spatial-resources/03-montreal-data.qmd
+          - href: spatial-resources/03-vegetation-data.qmd
             text: Montreal Data
           - href: spatial-resources/04-remote-sensing.qmd
             text: Remote Sensing Data

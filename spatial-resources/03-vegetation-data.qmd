@@ -1,0 +1,15 @@
+---
+title: "Vegetation Data"
+editor: visual
+---
+
+There are various sources of vegetation data across Canada. Some of the most useful sources for the ZULE Lab are listed below:
+
+| Dataset | Organization | Description | Date | File Format | Link |
+|---------|--------------|-------------|------|-------------|------|
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+|         |              |             |      |             |      |
+
+## 
