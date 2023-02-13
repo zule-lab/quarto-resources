@@ -269,14 +269,6 @@ ul.task-list li input[type="checkbox"] {
 
 <p>There are various sources of road data across Canada. Some of the most useful sources for the ZULE Lab are listed below:</p>
 <table class="table">
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 17%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Dataset</th>
@@ -291,26 +283,69 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Road Network File (Canada-wide)</td>
 <td>Statistics Canada</td>
-<td>Includes the unique identifier, DGUID, name and type for each side of a</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Includes the unique identifier, DGUID, name and type for each side of astreet arc (where applicable) for provinces and territories, and census subdivisions. In the 2021 Census Road Network File, streets are ranked according to five levels of detail, suitable for mapping at small to medium scales.</td>
+<td>2021 (previous years archived)</td>
+<td>SHP, GML, GDB, WMS</td>
+<td><a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21" class="uri">https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21</a></td>
+</tr>
+<tr class="even">
+<td>Complete Road Assets</td>
+<td>City of Montreal</td>
+<td>Road assets (pavements, islands, intersections, sidewalks, curbs) with a spatial representation and various attached information.</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/voirie-actif" class="uri">https://donnees.montreal.ca/ville-de-montreal/voirie-actif</a></td>
+</tr>
+<tr class="odd">
+<td>Roadways and Intersections</td>
+<td>City of Montreal</td>
+<td>Roadways and intersections of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection</a></td>
+</tr>
+<tr class="even">
+<td>Sidewalks and Traffic Islands</td>
+<td>City of Montreal</td>
+<td>Sidewalks and traffic islands of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot</a></td>
+</tr>
+<tr class="odd">
+<td>Off-Road Zones</td>
+<td>City of Montreal</td>
+<td>Off road zones of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-zone" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-zone</a></td>
+</tr>
+<tr class="even">
+<td>Bike Paths</td>
+<td>City of Montreal</td>
+<td>Bike paths of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables" class="uri">http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables</a></td>
+</tr>
+<tr class="odd">
+<td>Road Structures</td>
+<td>City of Montreal</td>
+<td>Road structures of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="https://donnees.montreal.ca/dataset/structure-routiere" class="uri">https://donnees.montreal.ca/dataset/structure-routiere</a></td>
+</tr>
+<tr class="even">
+<td>Road Projects</td>
+<td>City of Montreal</td>
+<td>Road projects of Montreal (does not include other road assets)</td>
+<td>Ongoing</td>
+<td>CSV, SHP, GeoJSON</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/schema-transport" class="uri">http://donnees.ville.montreal.qc.ca/dataset/schema-transport</a></td>
 </tr>
 </tbody>
 </table>
-<pre><code>                                                   street arc (where applicable) for provinces and territories, and census                                                            
-                                                   subdivisions. In the 2021 Census Road Network File, streets are ranked                                                             
-                                                   according to five levels of detail, suitable for mapping at small to                                                               
-                                                   medium scales.                                                                                                                     | 2021 (previous years archived) | SHP, GML, GDB, WMS | &lt;https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21&gt; |</code></pre>
-<p>Complete Road Assets | City of Montreal | Road assets (pavements, islands, intersections, sidewalks, curbs) with a spatial representation and various attached information. | Ongoing | CSV, SHP, GeoJSON | <a href="https://donnees.montreal.ca/ville-de-montreal/voirie-actif" class="uri">https://donnees.montreal.ca/ville-de-montreal/voirie-actif</a> |<br>
-Roadways and Intersections | City of Montreal | Roadways and intersections of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection</a> |<br>
-Sidewalks and Traffic Islands | City of Montreal | Sidewalks and traffic islands of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot</a> |<br>
-Off-Road Zones | City of Montreal | Off road zones of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-zone" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-zone</a> |<br>
-Bike Paths | City of Montreal | Bike paths of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables" class="uri">http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables</a> |<br>
-Road Structures | City of Montreal | Road structures of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="https://donnees.montreal.ca/dataset/structure-routiere" class="uri">https://donnees.montreal.ca/dataset/structure-routiere</a> |<br>
-Road Projects | City of Montreal | Road projects of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/schema-transport" class="uri">http://donnees.ville.montreal.qc.ca/dataset/schema-transport</a> |</p>
-<p>:<br>
-</p>
 
 
 
