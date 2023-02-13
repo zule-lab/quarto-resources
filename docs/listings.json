@@ -26,10 +26,10 @@
     "items": [
       "/spatial-resources/01-building-data.html",
       "/spatial-resources/02-census.html",
-      "/spatial-resources/03-montreal-data.html",
       "/spatial-resources/04-remote-sensing.html",
       "/spatial-resources/05-road-data.html",
-      "/spatial-resources/06-tree-data.html"
+      "/spatial-resources/06-tree-data.html",
+      "/spatial-resources/03-vegetation-data.html"
     ]
   }
 ]
