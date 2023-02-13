@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Road data</title>
+<title>Road Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -102,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Road data</h1>
+      <h1 class="quarto-secondary-nav-title">Road Data</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -245,20 +245,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#complete-road-assets" id="toc-complete-road-assets" class="nav-link active" data-scroll-target="#complete-road-assets">Complete Road Assets</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/zule-lab/quarto-resources/edit/main/spatial-resources/05-road-data.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/zule-lab/quarto-resources/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Road data</h1>
+<h1 class="title d-none d-lg-block">Road Data</h1>
 </div>
 
 
@@ -273,23 +267,52 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="complete-road-assets" class="level2">
-<h2 class="anchored" data-anchor-id="complete-road-assets">Complete Road Assets</h2>
-<p>Source: City of Montréal, Open data Portal<br>
-</p>
-<p>Formats: SHP, GeoJSON, CSV<br>
-</p>
-<p>Date created: 2018/08/17<br>
-</p>
-<p>Date last modified: 2019/05/06<br>
-</p>
-<p>Link: <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-actif" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-actif</a><br>
-</p>
-<p>All roadways, traffic islands, intersections, sidewalks and off-road zones<br>
+<p>There are various sources of road data across Canada. Some of the most useful sources for the ZULE Lab are listed below:</p>
+<table class="table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 17%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dataset</th>
+<th>Organization</th>
+<th>Description</th>
+<th>Date</th>
+<th>File Format</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Road Network File (Canada-wide)</td>
+<td>Statistics Canada</td>
+<td>Includes the unique identifier, DGUID, name and type for each side of a</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<pre><code>                                                   street arc (where applicable) for provinces and territories, and census                                                            
+                                                   subdivisions. In the 2021 Census Road Network File, streets are ranked                                                             
+                                                   according to five levels of detail, suitable for mapping at small to                                                               
+                                                   medium scales.                                                                                                                     | 2021 (previous years archived) | SHP, GML, GDB, WMS | &lt;https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21&gt; |</code></pre>
+<p>Complete Road Assets | City of Montreal | Road assets (pavements, islands, intersections, sidewalks, curbs) with a spatial representation and various attached information. | Ongoing | CSV, SHP, GeoJSON | <a href="https://donnees.montreal.ca/ville-de-montreal/voirie-actif" class="uri">https://donnees.montreal.ca/ville-de-montreal/voirie-actif</a> |<br>
+Roadways and Intersections | City of Montreal | Roadways and intersections of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-chaussee-intersection</a> |<br>
+Sidewalks and Traffic Islands | City of Montreal | Sidewalks and traffic islands of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-trottoir-ilot</a> |<br>
+Off-Road Zones | City of Montreal | Off road zones of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/voirie-zone" class="uri">http://donnees.ville.montreal.qc.ca/dataset/voirie-zone</a> |<br>
+Bike Paths | City of Montreal | Bike paths of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables" class="uri">http://donnees.ville.montreal.qc.ca/dataset/pistes-cyclables</a> |<br>
+Road Structures | City of Montreal | Road structures of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="https://donnees.montreal.ca/dataset/structure-routiere" class="uri">https://donnees.montreal.ca/dataset/structure-routiere</a> |<br>
+Road Projects | City of Montreal | Road projects of Montreal (does not include other road assets) | Ongoing | CSV, SHP, GeoJSON | <a href="http://donnees.ville.montreal.qc.ca/dataset/schema-transport" class="uri">http://donnees.ville.montreal.qc.ca/dataset/schema-transport</a> |</p>
+<p>:<br>
 </p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
