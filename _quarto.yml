@@ -39,13 +39,13 @@ website:
           - href: spatial-resources/02-census.qmd
             text: Census Data
           - href: spatial-resources/03-vegetation-data.qmd
-            text: Montreal Data
+            text: Vegetation Data
           - href: spatial-resources/04-remote-sensing.qmd
             text: Remote Sensing Data
           - href: spatial-resources/05-road-data.qmd
             text: Road Data
           - href: spatial-resources/06-boundary-data.qmd
-            text: Tree data
+            text: Boundary Data
       - section: "Other Resources"
         href: other-resources/00-other-resources.qmd
         contents:
