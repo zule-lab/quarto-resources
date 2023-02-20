@@ -3,20 +3,28 @@ title: "Remote Sensing/Satellite Imagery"
 editor: visual
 ---
 
-There are various sources of remote sensing data across Canada. A lot of this data is available in Google Earth Engine, which is often a great option for processing this type of data. Some of the most useful sources for the ZULE Lab are listed below:
+There are various sources of remote sensing data across Canada. A lot of this data is available in Google Earth Engine ([more datasets here](https://developers.google.com/earth-engine/datasets)), which is often a great option for processing this type of data. Some of the most useful sources for the ZULE Lab are listed below:
 
-| Dataset | Organization | Description | Date | File Format | Link |
-|---------|--------------|-------------|------|-------------|------|
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
-|         |              |             |      |             |      |
+| Dataset                                                    | Organization             | Description                                                                                                                                                        | Date         | File Format            | Link                                                                                                                  |
+|------------|------------|------------|-------------|------------|------------|
+| Digital Raster Acquisition Project Eastern Ontario (DRAPE) | Land Information Ontario | The orthophotography has a pixel resolution of 16cm and is accurate to 45 centimetres on the ground at 95%.                                                        | 2019-2020    | CSV, SHP, GeoJSON, KML | <https://geohub.lio.gov.on.ca/datasets/lio::digital-raster-acquisition-project-eastern-ontario-drape-2019-2020/about> |
+| LiDAR aérien                                               | City of Montreal         | 3D topographic representation of the territory in the form of a cloud of points.                                                                                   | 2015         | LAZ                    | <https://donnees.montreal.ca/ville-de-montreal/lidar-aerien-2015>                                                     |
+| Landsat 8                                                  | USGS                     | This dataset contains atmospherically corrected surface reflectance and land surface temperature derived from the data produced by the Landsat 8 OLI/TIRS sensors. | 2013-present | TIFF                   | <https://developers.google.com/earth-engine/datasets/catalog/landsat-8>                                               |
+| Landsat 9                                                  | USGS                     | This dataset contains atmospherically corrected surface reflectance and land surface temperature derived from the data produced by the Landsat 9 OLI/TIRS sensors. | 2021-present | TIFF                   | <https://developers.google.com/earth-engine/datasets/catalog/landsat-9>                                               |
+| Sentinel 5p                                                | ESA                      | Data useful for                                                                                                                                                    
+                                                                                         assessing air quality. Measures                                                                                                                                     
+                                                                                         atmospheric concentrations of ozone, methane, formaldehyde, aerosol,                                                                                                
+                                                                                         carbon monoxide, nitrogen oxide, and sulphur dioxide, as well as cloud                                                                                              
+                                                                                         characteristics at a spatial resolution of 0.01 arc degrees.                                                                                                        | 2018-present | TIFF                   | <https://developers.google.com/earth-engine/datasets/catalog/sentinel-5p>                                             |
+| Sentinel 2 (note: NDVI can be calculated from Sentinel 2)  | ESA                      | The S2 Multispectral                                                                                                                                               
+                                                                                         Instrument (MSI) samples 13 spectral bands: visible and NIR at 10                                                                                                   
+                                                                                         meters, red edge and SWIR at 20 meters, and atmospheric bands at 60                                                                                                 
+                                                                                         meters spatial resolution. It provides data suitable for assessing state                                                                                            
+                                                                                         and change of vegetation, soil, and water cover.                                                                                                                    | 2017-present | TIFF                   | <https://developers.google.com/earth-engine/datasets/catalog/sentinel-2>                                              |
+| High Resolution Digital Elevation Model (HRDEM)            | Natural Resources Canada | For DTM datasets, derived data available are slope, aspect, shaded                                                                                                 
+                                                                                         relief, color relief and color shaded relief maps and for DSM datasets,                                                                                             
+                                                                                         derived data available are shaded relief, color relief and color shaded                                                                                             
+                                                                                         relief maps.                                                                                                                                                        | 2016-2021    | TIFF                   | <https://search.open.canada.ca/openmap/957782bf-847c-4644-a757-e383c0057995>                                          |
+| Landsat 8 Collection 1 Tier 1 8-Day NDVI Composite         | Landsat                  | NDVI at 30m resolution was preprocessed in the Earth Engine catalogue using Landsat imagery                                                                        | 2013-present | TIFF                   | <https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C01_T1_8DAY_NDVI?hl=en#description>         |
 
 ## 
