@@ -14,5 +14,4 @@ We want to know about datasets/resources you have been using, so we can add them
 
 ## TO-DO
 
--   add commonly used spatial resources
 -   add fieldwork guide
