@@ -29,7 +29,9 @@ website:
             text: Online Graduate Student Orientation
           - href: policies/04-summer-undergrad-orientation.qmd
             text: Summer Undergraduate Student Orientation
-          - href: policies/05-msc-proposal-outline.qmd
+          - href: policies/05-international-student-orientation.qmd
+            text: Guide for Incoming International Students
+          - href: policies/06-msc-proposal-outline.qmd
             text: MSc Proposal Outline Example
       - section: "Spatial Resources"
         href: spatial-resources/00-spatial-resources.qmd

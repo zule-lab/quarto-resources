@@ -1,0 +1,133 @@
+---
+title: "Guide for Incoming International Students"
+editor: visual
+---
+
+## Welcome :)
+
+## Arrival to Canada
+
+-   This is a comprehensive checklist you can go through to look at what documents to bring, what to expect in customs, and understanding transportation options
+
+-   <https://www.concordia.ca/students/international/immigration/new-concordia-students/prepare-to-travel.html>
+
+::: callout-tip
+*some things such as study permit might not apply to summer Mitacs interns*
+:::
+
+## Important Rooms/Addresses
+
+-   The lab is in the Science Complex at the Loyola Campus (not the downtown campus). The address is as follows:
+
+    -   Richard J. Renaud Science Complex, \
+        7141 Sherbrooke St W, Montreal, \
+        Quebec H4B 2A7
+
+-   The Ziter lab is in room SP 432.03
+
+-   Carly\'s office is room SP 445.03
+
+## Transport
+
+-   There is no metro station immediately close to the campus. All the bus routes that go to the Loyola campus are listed here:
+
+-   <https://www.concordia.ca/maps/directions.html#loy>
+
+-   There is free shuttle between Loyola and Downtown campus, schedule here: <https://www.concordia.ca/maps/shuttle-bus.html#depart>
+
+-   There is also a bikeshare system (called \"BIXI\") from April to November: <https://www.bixi.com/en/contact-us>  
+
+Friendly tips:
+
+-   Fares are \$3.5 per trip for every time you have to tap your OPUS card. You can apply for a student OPUS card and buy the cheaper student monthly pass (\$56.5 a month) after getting your Student ID, but it takes time to process \*\* not for summer Mitacs interns
+
+-   For both the metro and the bus, you only need to tap your card when you get on, no need to tap off
+
+-   For the bus, you need to push on the vertical bars on the doors to open it, only the doors next to the driver open automatically. There is a light that turns green on the top of the door to indicate when you can push it.
+
+## Housing
+
+-   Loyola Campus is in the neighbourhood Notre-Dame-de-Grâce, where living in the area should allow quick access to campus by bus or walking. Côte-Des-Neiges is also close. There are also other options farther to Loyola but have convenient transportation of biking distance. 
+
+-   Normally listings are put up a month before the rent date. There main moving day for Montreal is July 1st which is when most leases begin. But listings are available for other times of the year too.
+
+-   Useful platforms to look for housing include Kijiji, Facebook Marketplace, PadMapper and Facebook groups
+
+-   Concordia\'s housing guide has all the information about neighborhoods, average prices, avoiding scams, and platforms to find listings and roommates
+
+    -   <https://www.concordia.ca/campus-life/life-in-montreal/renting-in-montreal.html>
+
+Friendly tips:
+
+-   Ask if the rent includes utilities e.g. Hydro (electricity) and heat! \*\* heat not necessary for summer Mitacs interns
+
+-   The city is divided into 19 boroughs (like neighborhoods) and each one has a unique feel/character to it. Some are more french than others, generally, the more west you go the more anglo you get.
+
+## SIM card/Wifi
+
+-   Step 16 of the checklist has information on different service providers: <https://www.concordia.ca/students/international/new-international-students/new-student-checklist.html>
+
+Friendly tips:
+
+-   Convenience stores don\'t have a lot of options. Walmart has good options.
+
+-   Major wifi providers include Bell, Rogers, TekSavvy, Virgin Mobile, VideoTron (but ask people in the lab because Canada has extremely evil telecom companies and prices are insane)
+
+## Healthcare for non-Canadian residents
+
+-   Quebec has a free information hotline but might require a Quebec phone number to access, 811, where you can consult a nurse with your symptoms/issue to get advice on whether you need to see a doctor for treatment, where you could go. It might take a long time for a nurse to answer. You can also ask specifically for options for international students with/without health insurance.
+
+-   Concordia\'s Health & Wellness Center has resources and services for students: <https://www.concordia.ca/health.html>
+
+## Other Concordia services
+
+-   The People\'s Potato - free vegan lunch (downtown), Monday-Friday, 12:30-2pm. Bring your own container! 
+
+-   Hive -- free vegan lunch from Monday-Friday (Loyola), 12:30-1:30pm. Bring your own container!
+
+-   International Students Office  \*\* services not accessible for summer Mitacs interns: <https://www.concordia.ca/students/international.html>
+
+## What to expect
+
+### Language situation
+
+-   Most people in Montreal can speak English - if you need help, don't be afraid to ask!
+
+-   All signage will mostly be in French with no English translations, but it is manageable to get around without speaking french.
+
+::: callout-note
+-   Sortie → Exit
+
+```{=html}
+<!-- -->
+```
+-   Arret → Stop
+
+-   Rabais → Discount
+
+-   Cafe → Coffee
+:::
+
+### Other stuff to know:
+
+-   STM → Montreal\'s metro system
+
+-   Provigo, Intermarche, Maxi, IGA → all big grocery stores (Maxi cheapest)
+
+-   Jean coutu/Pharmaprix → pharmacy
+
+-   Couche-Tard → convenience store
+
+-   Hydro → shortened name of the electricity company
+
+## Other miscellaneous things the ZULE lab members wanted to share
+
+-   If you're going to be here in the winter, you will need warm clothing and lots of layers because it gets really cold! Get warm socks, winter boots, a warm jacket, hat, mittens/gloves, and layer up. 
+
+-   There are a lot of great cafes to work from! Chloe has a coffee instagram account where she reviews coffee and cafes \@chloesips :) 
+
+-   If you by some chance either rent a car or buy a car when you get here, the parking situation is very tricky. You will need a parking sticker for the borough you park in if you want to park in "residents only" areas. If you are just renting a car for a day or two and want to park somewhere, a lot of the main streets have paid parking that you just need to go to a parking booth to get a parking pass for 24 hours. Also regarding parking, get the INFO neige app on your phone if you plan on parking here in the winter. It makes it easier to track where you can and cannot park when snow removal is in progress.
+
+-   If you don't have a car but want occasional access and have a license, check out Communauto!
+
+-   Having a bike is key to being happy in MTL :)
