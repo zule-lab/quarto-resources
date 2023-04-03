@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../other-resources/00-other-resources.html" rel="next">
+<link href="../spatial-resources/07-planning-data.html" rel="next">
 <link href="../spatial-resources/05-road-data.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -198,6 +198,11 @@ ul.task-list li input[type="checkbox"] {
   <a href="../spatial-resources/06-boundary-data.html" class="sidebar-item-text sidebar-link active">Boundary Data</a>
   </div>
 </li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../spatial-resources/07-planning-data.html" class="sidebar-item-text sidebar-link">Planning &amp; Climate Data</a>
+  </div>
+</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -272,6 +277,141 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>There are various sources of boundary data, depending on scale you are interested in. If you ever want general datasets openly available within R, you can use the package <code>osmdata</code> to pull administrative boundaries straight from Open Street Map. Statistics Canada, the city of Montreal, Quebec, and Canadian governments all have boundary data as well.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Dataset</th>
+<th>Organization</th>
+<th>Description</th>
+<th>Date</th>
+<th>File Format</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Boundary Files</td>
+<td>Statistics Canada</td>
+<td>There are two types of boundary files: cartographic and digital. Cartographic boundary files portray the geographic areas using only the major land mass of Canada and its coastal islands. Digital boundary files portray the full extent of the geographic areas, including the coastal water area.</td>
+<td>2021</td>
+<td>SHP, GML, TAB</td>
+<td><a href="https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21" class="uri">https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21</a></td>
+</tr>
+<tr class="even">
+<td>Neighbourhood Boundaries</td>
+<td>City of Montreal</td>
+<td>Polygons delimiting the boroughs of the City of Montreal, boroughs and related cities constituting the Montreal agglomeration.</td>
+<td>2023</td>
+<td>GeoJSON, SHP, KML</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements" class="uri">http://donnees.ville.montreal.qc.ca/dataset/polygones-arrondissements</a></td>
+</tr>
+<tr class="odd">
+<td>Large Parks</td>
+<td>City of Montreal</td>
+<td>Montreal’s 24 large parks, including 11 parcs-nature</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/grands-parcs" class="uri">http://donnees.ville.montreal.qc.ca/dataset/grands-parcs</a></td>
+</tr>
+<tr class="even">
+<td>Large Parks, Borough Parks and Public Spaces</td>
+<td>City of Montreal</td>
+<td>This dataset represents all the parks and public spaces identified and illustrates their surface polygons in the context of the urban fabric of the territory. The data is not representative of linked city parks, which are only partially represented.</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/grands-parcs-parcs-d-arrondissements-et-espaces-publics" class="uri">https://donnees.montreal.ca/ville-de-montreal/grands-parcs-parcs-d-arrondissements-et-espaces-publics</a></td>
+</tr>
+<tr class="odd">
+<td>Vacant Spaces</td>
+<td>Communauté Métropolitaine de Montréal</td>
+<td>Delimitation of vacant spaces to redevelop in Montreal and Longueuil</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="http://cmm.qc.ca/donnees-et-territoire/observatoire-grand-montreal/produits-cartographiques/donnees-georeferencees/" class="uri">http://cmm.qc.ca/donnees-et-territoire/observatoire-grand-montreal/produits-cartographiques/donnees-georeferencees/</a></td>
+</tr>
+<tr class="even">
+<td>Green Spaces</td>
+<td>City of Montreal</td>
+<td>Public areas with vegetation cover: gardens, playgrounds, resting areas, sports facilities, etc.</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/schema-environnement-milieux-naturels" class="uri">http://donnees.ville.montreal.qc.ca/dataset/schema-environnement-milieux-naturels</a></td>
+</tr>
+<tr class="odd">
+<td>Water bodies on the Island of Montreal</td>
+<td>City of Montreal</td>
+<td>Streams, brooks and lakes of Montreal</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/limites-cours-eau" class="uri">https://donnees.montreal.ca/ville-de-montreal/limites-cours-eau</a></td>
+</tr>
+<tr class="even">
+<td>Woods and Forest Corridors</td>
+<td>City of Montreal</td>
+<td>Woods and forest corridors identified by the Communauté métropolitaine de Montréal (CMM)</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/schema-environnement-milieux-naturels" class="uri">https://donnees.montreal.ca/ville-de-montreal/schema-environnement-milieux-naturels</a></td>
+</tr>
+<tr class="odd">
+<td>Community Gardens</td>
+<td>City of Montreal</td>
+<td>Vegetable gardens attributed to and cultivated by citizens or families</td>
+<td>2023</td>
+<td>SHP</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/jardins-communautaires" class="uri">http://donnees.ville.montreal.qc.ca/dataset/jardins-communautaires</a></td>
+</tr>
+<tr class="even">
+<td>Wood</td>
+<td>City of Montreal</td>
+<td>Natural wastelands of Montreal obtained by aerial photography, field visits and studies</td>
+<td>2023</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="http://donnees.ville.montreal.qc.ca/dataset/bois" class="uri">http://donnees.ville.montreal.qc.ca/dataset/bois</a></td>
+</tr>
+<tr class="odd">
+<td>Brownfields</td>
+<td>City of Montreal</td>
+<td>This dataset contains polygons delineating the natural wastelands in the Greater Montreal area.</td>
+<td>2021</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/frichenaturelle#resource-friche_naturelle_en_format_shapefile" class="uri">https://donnees.montreal.ca/ville-de-montreal/frichenaturelle#resource-friche_naturelle_en_format_shapefile</a></td>
+</tr>
+<tr class="even">
+<td>Current and Soon-to-Be Protected Natural Environments</td>
+<td>City of Montreal</td>
+<td>Current and soon-to-be protected natural areas, excluding water bodies under jurisdiction of the governments of Quebec and Canada</td>
+<td>2021</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/milieu-naturel-protege" class="uri">https://donnees.montreal.ca/ville-de-montreal/milieu-naturel-protege</a></td>
+</tr>
+<tr class="odd">
+<td>Ecoterritories</td>
+<td>City of Montreal</td>
+<td>Ten ecoterritories of more than 15 ha of protected, urban and natural areas requiring further protection and promotion</td>
+<td>2021</td>
+<td>SHP, GeoJSON, KML</td>
+<td><a href="https://donnees.montreal.ca/ville-de-montreal/ecoterritoires" class="uri">https://donnees.montreal.ca/ville-de-montreal/ecoterritoires</a></td>
+</tr>
+<tr class="even">
+<td>Open Data</td>
+<td>Canada Federal Government</td>
+<td>Open data portal for federal level data</td>
+<td></td>
+<td>All</td>
+<td><a href="https://open.canada.ca/en/open-data" class="uri">https://open.canada.ca/en/open-data</a></td>
+</tr>
+<tr class="odd">
+<td>Open Data</td>
+<td>Quebec Federal Government</td>
+<td>Open data portal for provincial level data</td>
+<td></td>
+<td>All</td>
+<td><a href="https://www.donneesquebec.ca/" class="uri">https://www.donneesquebec.ca/</a></td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -531,8 +671,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../other-resources/00-other-resources.html" class="pagination-link">
-        <span class="nav-page-text">Other Resources</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../spatial-resources/07-planning-data.html" class="pagination-link">
+        <span class="nav-page-text">Planning &amp; Climate Data</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

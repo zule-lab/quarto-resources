@@ -1,0 +1,14 @@
+---
+title: "Planning & Climate Data"
+editor: visual
+---
+
+The City of Montreal Open Data portal has a lot of datasets related to climate, planning and management within the city. We have included some of the most highly relevant ones here, but encourage you to search for more on the data portal if you don't find what you're looking for.
+
+| Dataset                      | Organization                          | Description                                                                                                                                     | Date             | File Format        | Link                                                                                  |
+|------------|------------|------------|------------|------------|------------|
+| Heat Islands                 | City of Montreal                      | Areas with summer temperatures 5-10°C higher than immediate environment (surface temperatures between 29,69 and 42,66°C)                        | 2019, 2016, 2013 | GeoJSON, SHP, TIFF | <https://donnees.montreal.ca/ville-de-montreal/ilots-de-chaleur>                      |
+| Climate Change Vulnerability | City of Montreal                      | Polygons representing areas vulnerable to heavy rainfall, heat waves, destructive storms, droughts and floods.                                  | 2022, 2015       | GeoJSON, SHP       | <https://donnees.montreal.ca/ville-de-montreal/vulnerabilite-changements-climatiques> |
+| Contaminated Soils           | City of Montreal                      | List of contaminated lands as provided for in section 31.68 of the Environment Quality Act. More information is available on the City's portal. | 2017             | JSON               | <https://donnees.montreal.ca/ville-de-montreal/liste-des-terrains-contamines>         |
+| Land Use (Detailed)          | City of Montreal                      | The land use shown on this map has ten categories. These are described in Section 3.1.1 (Land Use) of the Official Plan.                        | 2023             | GeoJSON, SHP       | <https://donnees.montreal.ca/ville-de-montreal/affectation-du-sol>                    |
+| Land Use                     | Communauté Métropolitaine de Montréal | The territory was divided into 11 main classes, according to the internal needs of the Community.                                               | 2020             | ZIP                | <https://observatoire.cmm.qc.ca/produits/donnees-georeferencees/#utilisation_du_sol>  |

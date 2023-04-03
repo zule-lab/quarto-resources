@@ -19,13 +19,13 @@ editor: visual
 
 -   The lab is in the Science Complex at the Loyola Campus (not the downtown campus). The address is as follows:
 
-    -   Richard J. Renaud Science Complex, \
-        7141 Sherbrooke St W, Montreal, \
+    -   Richard J. Renaud Science Complex,\
+        7141 Sherbrooke St W, Montreal,\
         Quebec H4B 2A7
 
 -   The Ziter lab is in room SP 432.03
 
--   Carly\'s office is room SP 445.03
+-   Carly's office is room SP 445.03
 
 ## Transport
 
@@ -35,7 +35,7 @@ editor: visual
 
 -   There is free shuttle between Loyola and Downtown campus, schedule here: <https://www.concordia.ca/maps/shuttle-bus.html#depart>
 
--   There is also a bikeshare system (called \"BIXI\") from April to November: <https://www.bixi.com/en/contact-us>  
+-   There is also a bikeshare system (called "BIXI") from April to November: <https://www.bixi.com/en/contact-us>  
 
 Friendly tips:
 
@@ -53,7 +53,7 @@ Friendly tips:
 
 -   Useful platforms to look for housing include Kijiji, Facebook Marketplace, PadMapper and Facebook groups
 
--   Concordia\'s housing guide has all the information about neighborhoods, average prices, avoiding scams, and platforms to find listings and roommates
+-   Concordia's housing guide has all the information about neighborhoods, average prices, avoiding scams, and platforms to find listings and roommates
 
     -   <https://www.concordia.ca/campus-life/life-in-montreal/renting-in-montreal.html>
 
@@ -69,7 +69,7 @@ Friendly tips:
 
 Friendly tips:
 
--   Convenience stores don\'t have a lot of options. Walmart has good options.
+-   Convenience stores don't have a lot of options. Walmart has good options.
 
 -   Major wifi providers include Bell, Rogers, TekSavvy, Virgin Mobile, VideoTron (but ask people in the lab because Canada has extremely evil telecom companies and prices are insane)
 
@@ -77,11 +77,11 @@ Friendly tips:
 
 -   Quebec has a free information hotline but might require a Quebec phone number to access, 811, where you can consult a nurse with your symptoms/issue to get advice on whether you need to see a doctor for treatment, where you could go. It might take a long time for a nurse to answer. You can also ask specifically for options for international students with/without health insurance.
 
--   Concordia\'s Health & Wellness Center has resources and services for students: <https://www.concordia.ca/health.html>
+-   Concordia's Health & Wellness Center has resources and services for students: <https://www.concordia.ca/health.html>
 
 ## Other Concordia services
 
--   The People\'s Potato - free vegan lunch (downtown), Monday-Friday, 12:30-2pm. Bring your own container! 
+-   The People's Potato - free vegan lunch (downtown), Monday-Friday, 12:30-2pm. Bring your own container! 
 
 -   Hive -- free vegan lunch from Monday-Friday (Loyola), 12:30-1:30pm. Bring your own container!
 
@@ -98,9 +98,8 @@ Friendly tips:
 ::: callout-note
 -   Sortie → Exit
 
-```{=html}
 <!-- -->
-```
+
 -   Arret → Stop
 
 -   Rabais → Discount
@@ -110,7 +109,7 @@ Friendly tips:
 
 ### Other stuff to know:
 
--   STM → Montreal\'s metro system
+-   STM → Montreal's metro system
 
 -   Provigo, Intermarche, Maxi, IGA → all big grocery stores (Maxi cheapest)
 

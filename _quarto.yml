@@ -48,6 +48,8 @@ website:
             text: Road Data
           - href: spatial-resources/06-boundary-data.qmd
             text: Boundary Data
+          - href: spatial-resources/07-planning-data.qmd
+            text: Planning & Climate Data
       - section: "Other Resources"
         href: other-resources/00-other-resources.qmd
         contents:
