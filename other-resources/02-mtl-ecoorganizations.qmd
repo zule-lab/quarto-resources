@@ -1,0 +1,855 @@
+---
+title: "Montréal Eco-Organizations Database"
+editor: visual
+---
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Name </p></th>
+<th><p>Organization Description (2-3 sentences)</p></th>
+<th><p>Focus/ Expertise</p></th>
+<th><p>Scale of Organization</p></th>
+<th><p>Start Date</p></th>
+<th><p>Scale of Projects / Interventions</p></th>
+<th><p>Sector / Governance</p></th>
+<th><p>Contact (Name (role)/ Phone number/ E-mail)</p></th>
+<th><p>If in Montreal, in which borough do they operate?</p></th>
+<th><p>Contact Address : (# , street name (suite), city, province, postal code)</p></th>
+<th><p>Contact Postal code (### ###)</p></th>
+<th><p>Environmental Mandate</p></th>
+<th><p>Social Mandate</p></th>
+<th><p>Funding Source</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Les Jardins des Patriotes</p></td>
+<td><p>-Urban agriculture on school property: a space for student and community learning (with collaboration of Ça Pousse)<br />
+-Hold workshops<br />
+-Circular Economy mentality: compost, market, etc.</p></td>
+<td><p>Education / Teaching, Urban Agriculture</p></td>
+<td><p>Neighborhood</p></td>
+<td><p>02/09/2015 - ongoing</p></td>
+<td><p>Individual Property</p></td>
+<td><p>School</p></td>
+<td><p>École secondaire Louis-Joseph-Papineau<br />
+514 596 5353<br />
+ljpapineaucsdm.qc.ca<br />
+https://louis-joseph-papineau.csdm.ca/activites/les-jardins-des-patriotes/<br />
+</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>2901 Rue de Louvain E, Montreal, Qc. H1Z 1J7</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Jardiner mon école/ Gardening my School</p></td>
+<td><p>A resource group. The goal is to help teachers and school workers start a school garden project. This is a project by Urban agriculture Laboratory (AU/LAB).</p></td>
+<td><p>Education / Teaching, Urban Agriculture</p></td>
+<td><p>City</p></td>
+<td><p>01/01/2016 - ongoing</p></td>
+<td><p>Individual Property (on schools grounds or private property)</p></td>
+<td><p>University / Research Industry</p></td>
+<td><p>Eric Duchemin<br />
+-<br />
+duchemin.ericuqam.ca<br />
+jardinermonecole.org/<br />
+http://www.au-lab.ca</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>2349 Rue de Rouen, Montréal, Qc, Canada</p></td>
+<td><p>H2K 1L8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Cultive ta ville</p></td>
+<td><p>Information hub to showcase the initiatives of urban agriculture in Québec- from individual to community gardening. A mapping of all the initiatives and resources can be found on the page. Project by the Urban Agriculture Laboratory (AU/LAB)</p></td>
+<td><p>Education / Teaching, Urban Agriculture</p></td>
+<td><p>Provincial</p></td>
+<td><p>01/01/2016 - ongoing</p></td>
+<td><p>Individual Property (on schools grounds or private property)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>Éric Duchemin (scientific director)<br />
+-<br />
+infoau-lab.ca<br />
+https://cultivetaville.com/<br />
+http://www.au-lab.ca/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>2349 Rue de Rouen, Montréal, Qc, Canada</p></td>
+<td><p>H2K 1L8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Laboratoire agriculture urbaine (AU/LAB)</p></td>
+<td><p>Research lab for innovation and intervention in urban agriculture. A growing central in which people contribute their projects. Inter-university space. Activities: research, conferences for schools, consulting for municipalities or institutions/corporations. </p></td>
+<td><p>Education / Teaching, Urban Agriculture</p></td>
+<td><p>Provincial</p></td>
+<td></td>
+<td><p>Region</p></td>
+<td><p>Non-Governmental Organization (NGO)</p></td>
+<td><p>Éric Duchemin (scientific director)<br />
+-<br />
+infoau-lab.ca<br />
+http://www.au-lab.ca/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>2349 Rue de Rouen, Montréal, Qc, Canada</p></td>
+<td><p>H2K 1L8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>VERTical</p></td>
+<td><p>Work and experiment with vertical structures and growing media. <br />
+To grow food, fight against urban heat islands.<br />
+Currently done over the roof of the Palais des congrès. <br />
+Part of the Urban Agriculture Laboratory (AU/LAB) </p></td>
+<td><p>Urban Agriculture, Green Infrastructure</p></td>
+<td><p>City</p></td>
+<td><p>01/12/2016 - ongoing</p></td>
+<td><p>Individual Property (on schools grounds or private property)</p></td>
+<td><p>University / Research Industry</p></td>
+<td></td>
+<td><p>Ville-Marie</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Coop Cercle Carré</p></td>
+<td><p>Affordable housing Cooperative in Ville-Marie that has implemented a green roof project composed of native Quebec plants that acts as a gathering space for the Coops community, and for Mtl community (through cultural events and workshops). The cooperative is managed by the members through a democratic approach. 75% of apartments are reserved for people or families with low income.</p></td>
+<td><p>Education / Teaching, Urban Agriculture, Green Spaces &amp; Green alleywavs, Green Infrastructure, Plant diversity, Native species</p></td>
+<td><p>Neighborhood</p></td>
+<td><p>01/01/2010-ongoing</p></td>
+<td><p>Block-level (in a neighborhood)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>Paul Neudorf (coordinator)<br />
+infocerclecarre.coop<br />
+cerclecarre.coop/coopcerclecarre</p></td>
+<td><p>Ville-Marie</p></td>
+<td><p>36 rue Queen, Montréal, QC H3C 2N5</p></td>
+<td></td>
+<td><p>Greening, Biodiversity</p></td>
+<td><p>Education, Community Ties, Equity</p></td>
+<td><p>Éco-quartier Saint-Jacques, Environment Canada (Eco Action Program)</p></td>
+</tr>
+<tr class="odd">
+<td><p>Regroupement de Lachine</p></td>
+<td><p>Open to everyone. A space that provides multiple services such as employment, daycare, creating and sustaining businesses, and sustainable development.This group showcases greening of commercial rooftops for practicing urban agriculture and promoting native biodiversity. In partnership with GRAME.</p></td>
+<td><p>Urban Agriculture, Green Infrastructure, Native species</p></td>
+<td><p>Neighborhood</p></td>
+<td><p>2013-ongoing</p></td>
+<td><p>Individual Property (on schools grounds or private property)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p><a href="http://www.regroupementdelachine.org/contact">http://www.regroupementdelachine.org/contact</a></p></td>
+<td><p>Lachine/Lasalle</p></td>
+<td><p>735 Rue Notre Dame, Lachine, QC H8S 2B3</p></td>
+<td></td>
+<td><p>Greening, Food, Biodiversity</p></td>
+<td><p>Equity</p></td>
+<td><p>unknown</p></td>
+</tr>
+<tr class="even">
+<td><p>Ça pousse!</p></td>
+<td><p>A branch from the Depot community food center (a community-serviced non-profit organization), mainly axed to provide services in urban gardening. They design, implement and help maintain urban gardening spaces for their clients (such as schools, corporations and community groups). All profits go back to the Depot community food center.</p></td>
+<td><p>Urban Agriculture</p></td>
+<td><p>City</p></td>
+<td><p>2014-Ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p>(514) 483-4680 ext 217<br />
+capoussedepotmtl.org</p></td>
+<td><p>NDG</p></td>
+<td><p>6505 Somerled Ave. Montréal QC H4V 1S5 Canada</p></td>
+<td></td>
+<td><p>Food</p></td>
+<td></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="odd">
+<td><p>Le Dépot centre communautaire dalimentation</p></td>
+<td><p>A non-profit community organization that works with multiple partners to help alleviate food insecurity. Its mission is to provide low-income families with access to fresh food, to create community ties, and help develop healthy lifestyles within these groups.</p></td>
+<td></td>
+<td><p>Neighborhood</p></td>
+<td><p>1986-ongoing</p></td>
+<td><p>Borough (across the whole borough)</p></td>
+<td></td>
+<td><p>(514) 483-4680<br />
+infodepotmtl.org</p></td>
+<td><p>NDG</p></td>
+<td><p>6505 avenue Somerled Montréal, Québec H4V 1S7</p></td>
+<td></td>
+<td></td>
+<td><p>Community Ties, Equity</p></td>
+<td><p>Many sources, but mainly its business branches such as Ça pousse!</p></td>
+</tr>
+<tr class="even">
+<td><p>Micro Habitat</p></td>
+<td><p>An organization that provides urban agriculture services to a range of clients such as individuals, community groups, institutions and corporations. Their focus is to cultivate fresh food through ecological agriculture in underused land, such as rooftops or unused property spaces. By collaborating with Alvéole (beehive company), they assure adequate pollination of their crops. They also hold workshops for those who want to learn how to take care of their own gardens.</p></td>
+<td><p>Education / Teaching, Urban Agriculture</p></td>
+<td><p>City</p></td>
+<td><p>2014-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p>1600 Ave. de Lorimier, Suite 115<br />
+Montréal, QC, H2K 3W5</p></td>
+<td><p>Plateau Mont-Royal</p></td>
+<td><p>1600 Ave. de Lorimier, Suite 115 Montréal, QC, H2K 3W5</p></td>
+<td></td>
+<td><p>Food</p></td>
+<td><p>Education</p></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="odd">
+<td><p>Miel Montréal co-op</p></td>
+<td><p>An urban beekeeping organization that focuses on education services as well as supporting urban beekeepers. This organization also engages in various projects to create habitats that are favorable to urban pollinators.<br />
+</p></td>
+<td><p>Education / Teaching, Invertebrates (bees, worms, ...)</p></td>
+<td><p>City</p></td>
+<td><p>2013-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Co-op</p></td>
+<td><p>(438) 933-0536<br />
+http://mielmontreal.com/en/get-involved/contact/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>6750 Avenue de lEsplanade (bureau 102), Montréal, Qc. H2V 4M1</p></td>
+<td></td>
+<td><p>Food</p></td>
+<td><p>Education</p></td>
+<td><p>Through partnerships</p></td>
+</tr>
+<tr class="even">
+<td><p>Alvéole</p></td>
+<td><p>An urban beekeeping company that provides turnkey services to residents, institutions and corporations. They install and care for beehives for their clients, with an educational focus. </p></td>
+<td><p>Education / Teaching, Invertebrates (bees, worms, ...)</p></td>
+<td><p>International</p></td>
+<td></td>
+<td><p>International (across many cities in various countries)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p><a href="https://www.alveole.buzz/en/contact.html">https://www.alveole.buzz/en/contact.html</a></p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td><p>Food</p></td>
+<td><p>Education</p></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="odd">
+<td><p>espace pour la vie montréal (Montreal Space for Life)</p></td>
+<td><p>The organization that heads Montreals insectarium, biodôme, botanical gardens and planetarium. This organization focuses on providing educational experiences to its clients through its institutions. It also provides research opportunities in ecology, entomology, and botany.</p></td>
+<td><p>Education / Teaching, Vertebrates (birds, mammals, fish, ...), Invertebrates (bees, worms, ...)</p></td>
+<td><p>City</p></td>
+<td><p>1938-ongoing</p></td>
+<td><p>Borough (across the whole borough)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p><a href="https://espacepourlavie.ca/en/contact">https://espacepourlavie.ca/en/contact</a></p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Education</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Le regroupement des éco-quartiers (REQ)</p></td>
+<td><p>Non-profit organization that links together members and resources from 15 different boroughs in Montreal that focus their work on more sustainable development. They work on various projects (such as les ruelles vertes and un arbre pour mon quartier) that integrate the community with environmental action.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td><p>1999-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>514-507-5401<br />
+infoeco-quartiers.org<br />
+https://www.eco-quartiers.org</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>75, Square Georges-Étienne Cartier (local 215), Montréal, Qc H4C 3A1</p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td><p>Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Les Amis de Meadowbrook</p></td>
+<td><p>A citizen-led group that wants to protect Meadowbrook (a 57-hectare green space in the south-west part of Montreal that has been used as a golf course) and transform it into a urban heritage park open for public and connected to other networks of parcs. Their mission is to stop this area from being developed.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>Neighborhood</p></td>
+<td><p>1989-ongoing</p></td>
+<td></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>lesamisdemeadowbrookgmail.com<br />
+http://lesamisdemeadowbrook.org/more-information-2/contact-us/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>2389 Benny Avenue, Montreal QC  H4B 2R5</p></td>
+<td></td>
+<td><p>Preserving Natural Heritage</p></td>
+<td></td>
+<td><p>Many (Conseil régional de l'environnement de Montréal (CRE), David Suzuki Foundation, Stephen Guilbeault, Equiterre, Green Coalition, Greenpeace, La Direction de santé publique de Montréal and Heritage Laurentien and Sierra Club Québec)</p></td>
+</tr>
+<tr class="even">
+<td><p>Les Toits Vertige</p></td>
+<td><p>A company offering services in greening rooftops. They have a wide range of clients, from the MTL airport, to schools, to hotels and the St-Joseph oratory.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Green Infrastructure</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>Individual Property (on schools grounds or private property)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p>infotoitsvertige.com<br />
+http://toitsvertige.com</p></td>
+<td><p>Plateau Mont-Royal</p></td>
+<td><p>101, avenue Van Horne Montréal, Québec, H2T 2J2</p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="odd">
+<td><p>Green Coalition (Coalition Verte)</p></td>
+<td><p>A citizen-led group that aims to promote the conservation, protection and restoration of the environment, by mobilizing with people who are interested in those goals.<br />
+Dedicated to their goals, this organization has went to court with the city of Montreal to protect the wetlands ecosystem in the TechnoParc in Montreal. </p></td>
+<td><p>Natural Habitats</p></td>
+<td><p>Neighborhood</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p><a href="https://greencoalitionverte.ca/english.htm">https://greencoalitionverte.ca/english.htm</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Environmental Justice</p></td>
+<td><p>donations</p></td>
+</tr>
+<tr class="even">
+<td><p>Heritage Laurentien</p></td>
+<td><p>Non-profit organization that is implied in the protection of natural habitats in the South-West boroughs of Montreal (Verdun, Sud-Ouest, LaSalle).<br />
+They also work to promote citizen engagement though their projects.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Natural Habitats</p></td>
+<td><p>City</p></td>
+<td><p>1994-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>514-367-6540<br />
+infoheritagelaurentien.org<br />
+http://www.heritagelaurentien.org/index.php/hl/notre-mission</p></td>
+<td><p>Mainly Boroughs South-West of Montreal</p></td>
+<td><p>55 av. Dupras - local 405, LaSalle, QC H8R 4A8</p></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Community Ties, Environmental Justice</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Conseil Régional Environnement (CRE) Montréal</p></td>
+<td><p>A non-profit organization that works to develop the environmental projects and social equity in the city of Montreal. Their projects span a big range of issues, but citizen engagement has a place in each.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Natural Habitats</p></td>
+<td><p>City</p></td>
+<td><p>1996-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>514-842-2890<br />
+infocremtl.qc.ca<br />
+https://cremtl.org/contact</p></td>
+<td><p>Ville-Marie</p></td>
+<td><p>50, rue Sainte-Catherine Ouest, bureau 300 Montréal (Québec) H2X 3V4</p></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Environmental Justice, Equity</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Soverdi (Société de verdissement du Montréal) Métropolitain)</p></td>
+<td><p>Organization that helps plant trees on private and institutional property in order to increase the amount of tree cover in Montreal. They formed a group of 50 organizations in Montreal to accomplish this goal (known as the Alliance Forêt urbaine or Urban Forest Alliance). They plan to create corridors of tree cover throughout the city.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td><p>1992-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>not certain</p></td>
+<td><p>(514) 286-2663 <br />
+infosoverdi.org<br />
+https://soverdi.org/approche/approche#approche</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>5570 avenue Casgrain (3e étage), Montréal, Québec, H2T 1X9 </p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td></td>
+<td><p>City of Montreal, and through its clients</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sauvons lanse-à-lorme</p></td>
+<td><p>A non-profit organization that works to stop the housing development in Pierrefonds-Roxborro and turn the green space into a national park instead. This region is deemed important for the conservation of certain endangered species.</p></td>
+<td><p>Natural Habitats</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p><a href="http://sauvonslal.com/">sauvonslal.com/</a></p></td>
+<td><p>Pierrefonds-Roxboro</p></td>
+<td></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Environmental Justice</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Nature Québec</p></td>
+<td><p>A non-governmental organization dedicated to the conservation of natural habitats and biodiversity. They have had many successful campaigns to mobilize the public against developments that would deteriorate Quebecs natural areas. Their projects range from greening urban spaces to campaigning against the construction of pipelines.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Endangered Species, Natural Habitats</p></td>
+<td><p>Provincial</p></td>
+<td><p>1981-ongoing</p></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>Non-Governmental Organization (NGO)</p></td>
+<td><p>418.648.2104<br />
+infonaturequebec.org<br />
+https://naturequebec.org/</p></td>
+<td><p>Not applicable (not in Montreal)</p></td>
+<td><p>870, avenue De Salaberry Bureau 207, Québec, Qc G1R 2T9</p></td>
+<td></td>
+<td><p>Greening, Environmental Quality</p></td>
+<td><p>Environmental Justice</p></td>
+<td><p>donations</p></td>
+</tr>
+<tr class="odd">
+<td><p>les amis de la montagne</p></td>
+<td><p>A charity organization dedicated to providing activities on the Mont-Royal mountain. Their goal is to engage citizens and practice active conservation on the mountain. They offer educational services for outdoor learning as well as take care of the park services that are found in the Maison Smith (coffee shop, equipment renting, gift shop). The funds are re-invested into conservation efforts on the mountain.</p></td>
+<td><p>Education / Teaching, Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td><p>1986-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Charity organization</p></td>
+<td><p>514 843-8240, poste 0<br />
+https://www.lemontroyal.qc.ca/</p></td>
+<td><p>Plateau Mont-Royal</p></td>
+<td><p>1260, chemin Remembrance Montréal, Québec, H3H 1A2</p></td>
+<td></td>
+<td><p>conservation</p></td>
+<td><p>Education</p></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="even">
+<td><p>Wild city mapping</p></td>
+<td><p>A collective group of artists and neighborhood citizens that map wild green spaces in Montreal and showcase their significance through a personal lens. Their goal is to catalog these underused wild green spaces to showcase how certain citizens have been using them. They also host temporary artistic and cultural installations in these urban green spaces.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>Neighborhood</p></td>
+<td><p>2014-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>wildcitymappinggmail.com<br />
+http://www.wildcitymapping.org</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>Community Ties</p></td>
+<td><p>volunteer-based</p></td>
+</tr>
+<tr class="odd">
+<td><p>Quebec Centre for Biodiversity Science</p></td>
+<td><p>An organization that works to promote biodiversity science in Quebec. It has formed an executive committee, engagement committee and research groups to take action, engage stakeholders and research biodiversity in Quebec. They organize an annual symposium and promote research and training to students. They are a funding body for researchers and students (mainly for QCBS graduate students)</p></td>
+<td><p>Education / Teaching</p></td>
+<td><p>Provincial</p></td>
+<td></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>University / Research Industry</p></td>
+<td><p>McGill University, Stewart Biology Building<br />
+Department of Biology<br />
+https://qcbs.ca</p></td>
+<td><p>Ville-Marie</p></td>
+<td><p>1205 Dr. Penfield Avenue Montreal H3A 1B1, Quebec, Canada</p></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Couvrons Décarie</p></td>
+<td><p>Citizen-led group advocating to cover Décarie expressway with a large green space to reduce air and noise pollution to the surrounding neighborhoods (NDG, Westmount)</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Pollution and Air Quality</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p><a href="https://en.couvronsdecarie.ca">https://en.couvronsdecarie.ca</a></p></td>
+<td><p>NDG</p></td>
+<td></td>
+<td></td>
+<td><p>Greening, Environmental Quality</p></td>
+<td><p>community health</p></td>
+<td><p>none</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mile end mission</p></td>
+<td><p>Community-centered organization working to establish community ties through events. They also support basic needs by offering free hot meals, weekly food bank, emergency food bag services, provide access to local farm produce,  and more!</p></td>
+<td></td>
+<td><p>Neighborhood</p></td>
+<td><p>1991-ongoing</p></td>
+<td><p>Block-level (in a neighborhood)</p></td>
+<td></td>
+<td><p>514-274-3401<br />
+generalmileendmission.org<br />
+www.mileendmission.org</p></td>
+<td><p>Mile-end</p></td>
+<td><p>99 Bernard Street West Montreal, Quebec, H2T 2J9</p></td>
+<td></td>
+<td></td>
+<td><p>Community Ties, Equity</p></td>
+<td><p>donations</p></td>
+</tr>
+<tr class="even">
+<td><p>Québio</p></td>
+<td><p>Affiliated with QCBS (Quebec Centre for Biodiversity Science). This page mainly lists and showcases all the ongoing projects sponsored by QCBS. A good reference to easily navigate through important biodiveristy science projects.</p></td>
+<td></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>University / Research Industry</p></td>
+<td><p><a href="https://www.quebio.ca/en">https://www.quebio.ca/en</a></p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>QCBS</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cercles des Mycologues de Montréal</p></td>
+<td><p>Volunteer-based organization working on mycology. They offer excursions to their members (led by professionals) and have weekly meetings to classify their findings (i.e. their fungi).</p></td>
+<td><p>Education / Teaching, Fungi</p></td>
+<td><p>City</p></td>
+<td><p>1950-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p><a href="https://mycomontreal.qc.ca/">https://mycomontreal.qc.ca/</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>Education</p></td>
+<td><p>membership and donation-based</p></td>
+</tr>
+<tr class="even">
+<td><p>Institut de recherche en biologie végétale (IRBV)</p></td>
+<td><p>Located on the site of the Montreal Botanical Garden, IRBV is a centre of research and teaching in biological/biodiveristy sciences (focusing on flora, but also insects and fungi). Their work is devoted to the discovery and preservation of the natural heritage of Quebec. Moreover, they train students (undergrads, graduates, doctorates). Collaboration with the Montreal Botanical Garden, Espace Pour la Vie (MTL) and Université de Montréal to bring knowledge and public awareness to their research.</p></td>
+<td><p>Education / Teaching, Plant diversity, Fungi</p></td>
+<td><p>City</p></td>
+<td><p>1990-ongoing</p></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>University / Research Industry</p></td>
+<td><p>514-343-2121<br />
+https://www.irbv.umontreal.ca/a-propos/coordonnees?lang=en</p></td>
+<td><p>Montreal Botanical Gardens</p></td>
+<td><p>4101 Sherbrooke East Montreal, QC H1X 2B2 Canada</p></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td><p>Education</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ICLEI- Local Governments for Sustainability</p></td>
+<td><p>International organization based in Germany working on integrating sustainable development in cities (of all sizes) around the world. Advocating for sustainability policies by being a hub of multi-disciplinary innovation.</p></td>
+<td></td>
+<td><p>International</p></td>
+<td></td>
+<td><p>International (across many cities in various countries)</p></td>
+<td><p>Non-Governmental Organization (NGO)</p></td>
+<td><p><a href="https://iclei.org">https://iclei.org</a></p></td>
+<td><p>Not applicable (not in Montreal)</p></td>
+<td></td>
+<td></td>
+<td><p>sustainable development</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Terre Promise</p></td>
+<td><p>Artisanal and heritage seed company based in Montreal. They offer a variety of rare and endangered seeds through more sustainable farming practices.</p></td>
+<td><p>Plant diversity, Native species, Endangered Species</p></td>
+<td><p>City</p></td>
+<td><p>2016-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Private Industry/ Business</p></td>
+<td><p>514-382-6042<br />
+infoterrepromise.ca</p></td>
+<td><p>Lîle-Bizard-Sainte-Geneviève</p></td>
+<td></td>
+<td></td>
+<td><p>Biodiversity</p></td>
+<td></td>
+<td><p>itself</p></td>
+</tr>
+<tr class="odd">
+<td><p>EcoAction Community Funding Program</p></td>
+<td><p>Funding program by the government of Canada aimed at environmental and community groups to build projects related to improving the environment. Institutions cannot directly apply, but by partnering with an environmental or community organization (and following other listed criteria), funding of 25 000$-100 000$ can be allocated to the project.</p></td>
+<td></td>
+<td><p>National</p></td>
+<td></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>Government</p></td>
+<td><p><a href="https://www.canada.ca/en/environment-climate-change/services/environmental-funding/ecoaction-community-program.html">https://www.canada.ca/en/environment-climate-change/services/environmental-funding/ecoaction-community-program.html</a></p></td>
+<td><p>Not applicable (not in Montreal)</p></td>
+<td></td>
+<td></td>
+<td><p>Biodiversity, Environmental Quality</p></td>
+<td><p>Community Ties</p></td>
+<td><p>government of Canada</p></td>
+</tr>
+<tr class="even">
+<td><p>Ecorise</p></td>
+<td><p>Intermediary between citizens, organizations and administrations to create convenient, green and social living environments.<br />
+They have urban greening projects, community involvement activities, and urban agriculture.</p></td>
+<td><p>Urban Agriculture, Green Spaces &amp; Green alleywavs</p></td>
+<td><p>Neighborhood</p></td>
+<td></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>Milena Cahen-Fourot (project manager)<br />
+infoecorisemtl.org<br />
+http://ecorisemtl.org/contact/ </p></td>
+<td><p>Rosemont-La Petite-Patrie</p></td>
+<td><p>4361 avenue Saint-Denis  Montréal, QC, H2J2L2</p></td>
+<td></td>
+<td><p>Greening, Food</p></td>
+<td><p>Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Espaces Temps (Agora des Possibles)</p></td>
+<td><p>Outdoors laboratory on alternative uses of vacant lots around the Mile End railway. They have a few projects so far using different lots. Has worked with other organizations such as Les Amis du Champ des Possibles, La Pépinière.</p></td>
+<td><p>Education / Teaching, Green Spaces &amp; Green alleywavs, Vacant lots</p></td>
+<td><p>Neighborhood</p></td>
+<td></td>
+<td><p>Block-level (in a neighborhood)</p></td>
+<td><p>Citizen / Neighborhood Groups</p></td>
+<td><p>Alice Chipot (project manager)<br />
+514 669 3789<br />
+infoespacestemps.ca <br />
+<br />
+Vincent Chapdelaine (dir.)<br />
+vincentespacestemps.ca</p></td>
+<td><p>Mile End</p></td>
+<td><p>5605 De Gaspé Ave (106), Montreal, Qc</p></td>
+<td></td>
+<td><p>Greening, Biodiversity</p></td>
+<td><p>Education, Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Quartiers 21</p></td>
+<td><p>Not an organization, but rather a program that funds sustainable development projects- environmental, social, and economic.<br />
+They receive project requests and </p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td><p>2005-ongoing</p></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Government</p></td>
+<td><p><a href="http://ville.montreal.qc.ca/portal/page?_pageid=7017,88529586&amp;_dad=portal&amp;_schema=PORTAL">http://ville.montreal.qc.ca/portal/page?_pageid=7017,88529586&amp;_dad=portal&amp;_schema=PORTAL</a></p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td><p>Greening</p></td>
+<td></td>
+<td><p>Ville de Montréal, Direction de santé publique from the Centres intégrés universitaires de santé et de services sociaux (CIUSSS)</p></td>
+</tr>
+<tr class="odd">
+<td><p>Conscience Urbaine</p></td>
+<td><p>Planning of urban projects with artists, citizens, professionals and decision-makers to build safer, friendlier and more inclusive cities. Advises local and national governments on community management and gender equality.</p></td>
+<td></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>Fanie St-Michel<br />
+514.559.6411<br />
+FANIE.STMICHELCONSCIENCEURBAINE.NET<br />
+https://conscienceurbaine.net/contact/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>3980 RUE ST-DENIS, #300 MONTRÉAL, H2W 2M3</p></td>
+<td></td>
+<td></td>
+<td><p>Community Ties, Equity, security</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ILEAU (Interventions locales en Environnement et Aménagement Urbain)</p></td>
+<td><p>Improvement of living and working environments in Montreal-East through local environmental and planning interventions, particularly to counteract heat islands.<br />
+They work with school, corporations in order to plant more plant species on the island.</p></td>
+<td><p>Green Spaces &amp; Green alleywavs, Heat Islands</p></td>
+<td><p>City</p></td>
+<td><p>2015-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td></td>
+<td><p>Nilson Zepeda (Environmental project leader)<br />
+514 842-2890 poste 3424<br />
+nzepedacremtl.org<br />
+https://ileau.ca/contact</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td></td>
+<td></td>
+<td><p>Greening, Biodiversity</p></td>
+<td><p>Community Ties, Environmental Justice</p></td>
+<td><p>-CRE-Montreal (Conseil Régional de lenvironnement de Montréal)<br />
+-Fonds vert</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sentier Urbain</p></td>
+<td><p>Mobilization of communties for greening spaces, educating citizens and ecoresponsible development. They worked on the Circuit Jardins (vacant lots turned into gardens to counteract heat islands, increase biodiversity and provide green spaces) </p></td>
+<td><p>Education / Teaching, Urban Agriculture, Green Spaces &amp; Green alleywavs, Vacant lots</p></td>
+<td><p>City</p></td>
+<td><p>1993-ongoing</p></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>Pierre Dénommée (dir.)<br />
+directionsentierurbain.org <br />
+<br />
+Jasmin Leduc (greening)<br />
+514-521-9292 (ext. 22 and 25)<br />
+verdissementsentierurbain.org </p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>1710 Beaudry St, Montreal</p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td><p>Education, Community Ties, Environmental Justice</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Centre décologie urbaine de Montréal (CEUM)</p></td>
+<td><p>Suggestion of practices and policies for green, democratic and healthy cities, with a praxis towards public spaces. Work with citizens to guide projects, provide tools and expertise.</p></td>
+<td><p>Education / Teaching, Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td></td>
+<td><p>Véronique Fournier (director)<br />
+514-282-8378<br />
+veroniqueecologieurbaine.net <br />
+infoecologieurbaine.net</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>3516 Avenue du Parc, Montreal, Qc, H2X 2H7</p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td><p>Education, Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>La Pépinière</p></td>
+<td><p>Improvement of living environments through community participation (40-80 members working with local stakeholders). They work to develop large-scale projects.<br />
+Examples of projects: Village-au-Pied-du-Courant, Jardins Gamelin, Quais Masson<br />
+</p></td>
+<td><p>Green Spaces &amp; Green alleywavs</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>Céline Girard (communications)<br />
+celine.girardpepiniere.co <br />
+infopepiniere.co<br />
+<br />
+Carl Begin (funding and partnerships)<br />
+carlpepiniere.co<br />
+https://www.pepiniere.co/mission-et-vision</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>3081, rue Ontario Est, local 101   Montréal, QC, H1W 1N7 </p></td>
+<td></td>
+<td><p>Greening</p></td>
+<td><p>Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Solon</p></td>
+<td><p>Over 100 citizens and 20 individual members working on local collective projects to improve the city life. A facilitation hub for citizen projects of all kinds. For example, land sharing between landowners and avid gardeners, repair workshops, neighborhood collaboration.<br />
+Examples of projects include: Espace Bonheur Masson (public ground for social mix and against heat islands), Celsius (heating network using renewable energy) </p></td>
+<td><p>community involvement</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>Gabrielle Van Durme (coordinator)<br />
+infosolon-collectif.org<br />
+https://solon-collectif.org/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>6750 Avenue de lEsplanade (102), Montreal</p></td>
+<td></td>
+<td></td>
+<td><p>Community Ties</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>COOP Carbone</p></td>
+<td><p>A solidarity coop that assists collaborative projects to reduce their carbon footprint. This organization is active on the carbon market, and works with the energy, agriculture, and mobility sectors. <br />
+Example of collaboration: Coop Agri-Énergie Warwick </p></td>
+<td><p>carbon reduction and offset</p></td>
+<td><p>Provincial</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>Non-Profit Organization</p></td>
+<td><p>514 787-1724<br />
+https://coopcarbone.coop/fr/contact</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>1097, rue Saint-Alexandre bur. 203 Montréal (Québec) H2Z 1P8</p></td>
+<td></td>
+<td><p>Environmental Quality</p></td>
+<td><p>Environmental Justice</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Centre d'étude en responsabilité sociale et écocitoyenneté (CERSÉ)</p></td>
+<td><p>The CERSÉ helps organizations (cities, citizen groups, companies) integrate socially-responsible practices by presenting working models that are forward-thinking and socially inclusive. A pragmatic research group that aims to analyze projects and propose ways to be socially innovative.</p></td>
+<td><p>socially responsable</p></td>
+<td><p>City</p></td>
+<td></td>
+<td><p>City (across the whole city)</p></td>
+<td><p>University / Research Industry</p></td>
+<td><p>514 376-1620, poste 7164<br />
+cersecrosemont.qc.ca<br />
+https://cerse.crosemont.qc.ca/nous-joindre/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>6400, 16e Avenue Montréal (Québec) H1X 2S9</p></td>
+<td></td>
+<td></td>
+<td><p>Community Ties, Equity</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ALTE</p></td>
+<td><p>An eco-inspired engineering company that creates plans for eco-friendly building projects.  Their expertise is in making buildings resource-efficient, while adopting a socially-responsible praxis. Project examples include: converting an old building into energy-efficient microbrewery, making building plans for eco-houses.</p></td>
+<td><p>eco-engineering</p></td>
+<td><p>Provincial</p></td>
+<td></td>
+<td><p>Region (across many cities in Canada)</p></td>
+<td><p>Co-op</p></td>
+<td><p>infoaltecoop.ca<br />
+https://altecoop.ca/a-propos/</p></td>
+<td><p>Many locations- spread across many boroughs</p></td>
+<td><p>6750 Avenue de l'Esplanade (bur. 102), Montréal, Québec H2V 4M1</p></td>
+<td></td>
+<td><p>energy-efficiency</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Ya Quelquun Laut Bord du Mur (YQQ)</p></td>
+<td><p>Multi-faceted organization that promotes healthy public spaces and is inspired by increasing the quality of city life. They offer services to remove graffiti, green spaces, and establish urban agriculture plans.</p></td>
+<td><p>Urban Agriculture, Green Spaces &amp; Green alleywavs</p></td>
+<td><p>Neighborhood</p></td>
+<td></td>
+<td><p>Borough (across the whole borough or a few boroughs)</p></td>
+<td></td>
+<td><p>514-254-2626<br />
+admininfo-yqq.com<br />
+https://info-yqq.com/contact/</p></td>
+<td><p>Mercier, Hochelaga-Maisonneuve</p></td>
+<td><p>6711 rue de Marseille Montréal, Qc,  H1N 1M4</p></td>
+<td></td>
+<td><p>Greening, Food</p></td>
+<td><p>Equity</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
