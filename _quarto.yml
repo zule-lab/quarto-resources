@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  # output-dir: docs
   execute-dir: project
 
 
@@ -53,20 +53,10 @@ website:
       - section: "Other Resources"
         href: other-resources/00-other-resources.qmd
         contents:
-          - href: other-resources/01-cross-city-es-reading-list.qmd
-            text: Cross-City Ecosystem Services Reading List
-          - href: other-resources/02-gi-reading-list.qmd
-            text: Green Infrastructure Reading List
-          - href: other-resources/03-mtl-ecoorganizations.qmd
+          - href: other-resources/01-zule-lab-reading-list.qmd
+            text: ZULE Lab Reading List
+          - href: other-resources/02-mtl-ecoorganizations.qmd
             text: Montreal Eco-Organizations List
-          - href: other-resources/04-sampling-methods-reading-list.qmd
-            text: Sampling Methods Reading List
-          - href: other-resources/05-soil-reading-list.qmd
-            text: Soil Reading Lists
-          - href: other-resources/06-urban-ecology-reading-list.qmd
-            text: Urban Ecology Reading List
-          - href: other-resources/07-urban-forest-biodiversity-reading-list.qmd
-            text: Urban Forest Biodiversity Reading List
 
 
 format:

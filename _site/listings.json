@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/other-resources/00-other-resources.html",
+    "items": [
+      "/other-resources/02-mtl-ecoorganizations.html",
+      "/other-resources/01-zule-lab-reading-list.html"
+    ]
+  },
+  {
+    "listing": "/policies/00-policies.html",
+    "items": [
+      "/policies/03-online-grad-orientation.html",
+      "/policies/05-international-student-orientation.html",
+      "/policies/01-code-of-conduct.html",
+      "/policies/02-individual-mentoring-plan.html",
+      "/policies/06-msc-proposal-outline.html",
+      "/policies/04-summer-undergrad-orientation.html"
+    ]
+  },
+  {
+    "listing": "/spatial-resources/00-spatial-resources.html",
+    "items": [
+      "/spatial-resources/06-boundary-data.html",
+      "/spatial-resources/01-building-data.html",
+      "/spatial-resources/02-census.html",
+      "/spatial-resources/07-planning-data.html",
+      "/spatial-resources/04-remote-sensing.html",
+      "/spatial-resources/05-road-data.html",
+      "/spatial-resources/03-vegetation-data.html"
+    ]
+  }
+]

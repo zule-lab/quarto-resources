@@ -6,7 +6,7 @@ editor: visual
 <table>
 <thead>
 <tr class="header">
-<th><p>Name </p></th>
+<th><p>Name</p></th>
 <th><p>Organization Description (2-3 sentences)</p></th>
 <th><p>Focus/ Expertise</p></th>
 <th><p>Scale of Organization</p></th>
@@ -87,7 +87,7 @@ http://www.au-lab.ca/</p></td>
 </tr>
 <tr class="even">
 <td><p>Laboratoire agriculture urbaine (AU/LAB)</p></td>
-<td><p>Research lab for innovation and intervention in urban agriculture. A growing central in which people contribute their projects. Inter-university space. Activities: research, conferences for schools, consulting for municipalities or institutions/corporations. </p></td>
+<td><p>Research lab for innovation and intervention in urban agriculture. A growing central in which people contribute their projects. Inter-university space. Activities: research, conferences for schools, consulting for municipalities or institutions/corporations.</p></td>
 <td><p>Education / Teaching, Urban Agriculture</p></td>
 <td><p>Provincial</p></td>
 <td></td>
@@ -109,7 +109,7 @@ http://www.au-lab.ca/</p></td>
 <td><p>Work and experiment with vertical structures and growing media. <br />
 To grow food, fight against urban heat islands.<br />
 Currently done over the roof of the Palais des congrès. <br />
-Part of the Urban Agriculture Laboratory (AU/LAB) </p></td>
+Part of the Urban Agriculture Laboratory (AU/LAB)</p></td>
 <td><p>Urban Agriculture, Green Infrastructure</p></td>
 <td><p>City</p></td>
 <td><p>01/12/2016 - ongoing</p></td>
@@ -228,7 +228,7 @@ http://mielmontreal.com/en/get-involved/contact/</p></td>
 </tr>
 <tr class="even">
 <td><p>Alvéole</p></td>
-<td><p>An urban beekeeping company that provides turnkey services to residents, institutions and corporations. They install and care for beehives for their clients, with an educational focus. </p></td>
+<td><p>An urban beekeeping company that provides turnkey services to residents, institutions and corporations. They install and care for beehives for their clients, with an educational focus.</p></td>
 <td><p>Education / Teaching, Invertebrates (bees, worms, ...)</p></td>
 <td><p>International</p></td>
 <td></td>
@@ -287,11 +287,11 @@ https://www.eco-quartiers.org</p></td>
 <td><p>lesamisdemeadowbrookgmail.com<br />
 http://lesamisdemeadowbrook.org/more-information-2/contact-us/</p></td>
 <td><p>Many locations- spread across many boroughs</p></td>
-<td><p>2389 Benny Avenue, Montreal QC  H4B 2R5</p></td>
+<td><p>2389 Benny Avenue, Montreal QC H4B 2R5</p></td>
 <td></td>
 <td><p>Preserving Natural Heritage</p></td>
 <td></td>
-<td><p>Many (Conseil régional de l'environnement de Montréal (CRE), David Suzuki Foundation, Stephen Guilbeault, Equiterre, Green Coalition, Greenpeace, La Direction de santé publique de Montréal and Heritage Laurentien and Sierra Club Québec)</p></td>
+<td><p>Many (Conseil régional de lenvironnement de Montréal (CRE), David Suzuki Foundation, Stephen Guilbeault, Equiterre, Green Coalition, Greenpeace, La Direction de santé publique de Montréal and Heritage Laurentien and Sierra Club Québec)</p></td>
 </tr>
 <tr class="even">
 <td><p>Les Toits Vertige</p></td>
@@ -313,7 +313,7 @@ http://toitsvertige.com</p></td>
 <tr class="odd">
 <td><p>Green Coalition (Coalition Verte)</p></td>
 <td><p>A citizen-led group that aims to promote the conservation, protection and restoration of the environment, by mobilizing with people who are interested in those goals.<br />
-Dedicated to their goals, this organization has went to court with the city of Montreal to protect the wetlands ecosystem in the TechnoParc in Montreal. </p></td>
+Dedicated to their goals, this organization has went to court with the city of Montreal to protect the wetlands ecosystem in the TechnoParc in Montreal.</p></td>
 <td><p>Natural Habitats</p></td>
 <td><p>Neighborhood</p></td>
 <td></td>
@@ -376,7 +376,7 @@ https://cremtl.org/contact</p></td>
 infosoverdi.org<br />
 https://soverdi.org/approche/approche#approche</p></td>
 <td><p>Many locations- spread across many boroughs</p></td>
-<td><p>5570 avenue Casgrain (3e étage), Montréal, Québec, H2T 1X9 </p></td>
+<td><p>5570 avenue Casgrain (3e étage), Montréal, Québec, H2T 1X9</p></td>
 <td></td>
 <td><p>Greening</p></td>
 <td></td>
@@ -486,7 +486,7 @@ https://qcbs.ca</p></td>
 </tr>
 <tr class="odd">
 <td><p>Mile end mission</p></td>
-<td><p>Community-centered organization working to establish community ties through events. They also support basic needs by offering free hot meals, weekly food bank, emergency food bag services, provide access to local farm produce,  and more!</p></td>
+<td><p>Community-centered organization working to establish community ties through events. They also support basic needs by offering free hot meals, weekly food bank, emergency food bag services, provide access to local farm produce, and more!</p></td>
 <td></td>
 <td><p>Neighborhood</p></td>
 <td><p>1991-ongoing</p></td>
@@ -611,9 +611,9 @@ They have urban greening projects, community involvement activities, and urban a
 <td><p>Citizen / Neighborhood Groups</p></td>
 <td><p>Milena Cahen-Fourot (project manager)<br />
 infoecorisemtl.org<br />
-http://ecorisemtl.org/contact/ </p></td>
+http://ecorisemtl.org/contact/</p></td>
 <td><p>Rosemont-La Petite-Patrie</p></td>
-<td><p>4361 avenue Saint-Denis  Montréal, QC, H2J2L2</p></td>
+<td><p>4361 avenue Saint-Denis Montréal, QC, H2J2L2</p></td>
 <td></td>
 <td><p>Greening, Food</p></td>
 <td><p>Community Ties</p></td>
@@ -643,7 +643,7 @@ vincentespacestemps.ca</p></td>
 <tr class="even">
 <td><p>Quartiers 21</p></td>
 <td><p>Not an organization, but rather a program that funds sustainable development projects- environmental, social, and economic.<br />
-They receive project requests and </p></td>
+They receive project requests and</p></td>
 <td><p>Green Spaces &amp; Green alleywavs</p></td>
 <td><p>City</p></td>
 <td><p>2005-ongoing</p></td>
@@ -699,7 +699,7 @@ https://ileau.ca/contact</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sentier Urbain</p></td>
-<td><p>Mobilization of communties for greening spaces, educating citizens and ecoresponsible development. They worked on the Circuit Jardins (vacant lots turned into gardens to counteract heat islands, increase biodiversity and provide green spaces) </p></td>
+<td><p>Mobilization of communties for greening spaces, educating citizens and ecoresponsible development. They worked on the Circuit Jardins (vacant lots turned into gardens to counteract heat islands, increase biodiversity and provide green spaces)</p></td>
 <td><p>Education / Teaching, Urban Agriculture, Green Spaces &amp; Green alleywavs, Vacant lots</p></td>
 <td><p>City</p></td>
 <td><p>1993-ongoing</p></td>
@@ -710,7 +710,7 @@ directionsentierurbain.org <br />
 <br />
 Jasmin Leduc (greening)<br />
 514-521-9292 (ext. 22 and 25)<br />
-verdissementsentierurbain.org </p></td>
+verdissementsentierurbain.org</p></td>
 <td><p>Many locations- spread across many boroughs</p></td>
 <td><p>1710 Beaudry St, Montreal</p></td>
 <td></td>
@@ -755,7 +755,7 @@ Carl Begin (funding and partnerships)<br />
 carlpepiniere.co<br />
 https://www.pepiniere.co/mission-et-vision</p></td>
 <td><p>Many locations- spread across many boroughs</p></td>
-<td><p>3081, rue Ontario Est, local 101   Montréal, QC, H1W 1N7 </p></td>
+<td><p>3081, rue Ontario Est, local 101 Montréal, QC, H1W 1N7</p></td>
 <td></td>
 <td><p>Greening</p></td>
 <td><p>Community Ties</p></td>
@@ -764,7 +764,7 @@ https://www.pepiniere.co/mission-et-vision</p></td>
 <tr class="even">
 <td><p>Solon</p></td>
 <td><p>Over 100 citizens and 20 individual members working on local collective projects to improve the city life. A facilitation hub for citizen projects of all kinds. For example, land sharing between landowners and avid gardeners, repair workshops, neighborhood collaboration.<br />
-Examples of projects include: Espace Bonheur Masson (public ground for social mix and against heat islands), Celsius (heating network using renewable energy) </p></td>
+Examples of projects include: Espace Bonheur Masson (public ground for social mix and against heat islands), Celsius (heating network using renewable energy)</p></td>
 <td><p>community involvement</p></td>
 <td><p>City</p></td>
 <td></td>
@@ -783,7 +783,7 @@ https://solon-collectif.org/</p></td>
 <tr class="odd">
 <td><p>COOP Carbone</p></td>
 <td><p>A solidarity coop that assists collaborative projects to reduce their carbon footprint. This organization is active on the carbon market, and works with the energy, agriculture, and mobility sectors. <br />
-Example of collaboration: Coop Agri-Énergie Warwick </p></td>
+Example of collaboration: Coop Agri-Énergie Warwick</p></td>
 <td><p>carbon reduction and offset</p></td>
 <td><p>Provincial</p></td>
 <td></td>
@@ -799,7 +799,7 @@ https://coopcarbone.coop/fr/contact</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Centre d'étude en responsabilité sociale et écocitoyenneté (CERSÉ)</p></td>
+<td><p>Centre détude en responsabilité sociale et écocitoyenneté (CERSÉ)</p></td>
 <td><p>The CERSÉ helps organizations (cities, citizen groups, companies) integrate socially-responsible practices by presenting working models that are forward-thinking and socially inclusive. A pragmatic research group that aims to analyze projects and propose ways to be socially innovative.</p></td>
 <td><p>socially responsable</p></td>
 <td><p>City</p></td>
@@ -818,7 +818,7 @@ https://cerse.crosemont.qc.ca/nous-joindre/</p></td>
 </tr>
 <tr class="odd">
 <td><p>ALTE</p></td>
-<td><p>An eco-inspired engineering company that creates plans for eco-friendly building projects.  Their expertise is in making buildings resource-efficient, while adopting a socially-responsible praxis. Project examples include: converting an old building into energy-efficient microbrewery, making building plans for eco-houses.</p></td>
+<td><p>An eco-inspired engineering company that creates plans for eco-friendly building projects. Their expertise is in making buildings resource-efficient, while adopting a socially-responsible praxis. Project examples include: converting an old building into energy-efficient microbrewery, making building plans for eco-houses.</p></td>
 <td><p>eco-engineering</p></td>
 <td><p>Provincial</p></td>
 <td></td>
@@ -827,7 +827,7 @@ https://cerse.crosemont.qc.ca/nous-joindre/</p></td>
 <td><p>infoaltecoop.ca<br />
 https://altecoop.ca/a-propos/</p></td>
 <td><p>Many locations- spread across many boroughs</p></td>
-<td><p>6750 Avenue de l'Esplanade (bur. 102), Montréal, Québec H2V 4M1</p></td>
+<td><p>6750 Avenue de lEsplanade (bur. 102), Montréal, Québec H2V 4M1</p></td>
 <td></td>
 <td><p>energy-efficiency</p></td>
 <td></td>
@@ -845,7 +845,7 @@ https://altecoop.ca/a-propos/</p></td>
 admininfo-yqq.com<br />
 https://info-yqq.com/contact/</p></td>
 <td><p>Mercier, Hochelaga-Maisonneuve</p></td>
-<td><p>6711 rue de Marseille Montréal, Qc,  H1N 1M4</p></td>
+<td><p>6711 rue de Marseille Montréal, Qc, H1N 1M4</p></td>
 <td></td>
 <td><p>Greening, Food</p></td>
 <td><p>Equity</p></td>
