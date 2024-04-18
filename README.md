@@ -1,14 +1,6 @@
 ## Hello!
 
-::: columns
-::: column
-![](imgs/ZULE_logo_green_name.png)
-:::
-
-::: column
 This website is for hosting all the important/most commonly used resources from the ZULE Lab. Feel free to use the search function to find what you need or check out the left sidebar for different categories, and then click on whatever topic is most relevant to you to get the info you need!
-:::
-:::
 
 ## Are we missing something?
 
