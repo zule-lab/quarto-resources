@@ -9,7 +9,7 @@ editor: visual
 
 This short guide is to get you started in the Ziter Urban Landscape Ecology (ZULE) Lab for your summer position. We designed this "online orientation" during Covid (while we were all working from home), but have found it useful to maintain this online guide to keep everything in one place, even though we're now back in the lab. So, please read through this guide carefully as your online orientation to the lab (to be followed by in person meetings in the upcoming weeks, when you officially join us).
 
-Our **physical lab space** is in the SP building on Loyola Campus, in room 432.03. For those who will be in the lab regularly, we can request you a key, but for now you should plan to be there while graduate students are in the lab, so that someone can let you in.
+Our **physical lab space** is in the SP building on Loyola Campus, in room 532.01. For those who will be in the lab regularly, we can request you a key, but for now you should plan to be there while graduate students are in the lab, so that someone can let you in.
 
 Since we've been back and forth between home and the lab for the last few years, our lab also does a lot of communication using online tools that you may or may not be familiar with. In the lab, we often use:
 
@@ -91,39 +91,11 @@ Most students in the lab call me Carly, and you are welcome to do the same. Some
 
 -   All of you will have a "core" project that you are working on, but we encourage undergraduates to get a diversity of experiences while in the lab. This means that I may ask you to contribute to other projects occasionally. This helps to keep all lab projects moving forward, and gives you a chance to gain new skills and experiences.
 
-### Who's who in the ZULE lab?!
-
-Current lab members are *italicized*, loosely organized by "theme" for the summer. I've indicated incoming lab members in bold (including our new summer undergraduate students, as well as graduate students and postdocs arriving this summer)
-
-**Urban parks fieldwork** - Urban forest ecology, soil ecology, and land use legacies: *Bella* is a PhD student working on the urban forest, and *Michael* is an MSc student working on urban soils. Both Bella and Michael will conduct fieldwork throughout the summer in a number of Montreal parks. Erica and Gabrielle will be assisting with these projects this summer. At the end of June, this team will be joined by Angelina (a Mitacs intern from Germany), and Laura (a Mitacs intern from Colombia)
-
--   Erica reports to Bella/Michael for general fieldwork tasks and scheduling, and to Bella (and Carly as needed) for her BIOL490 project
-
--   Gabrielle reports to Bella/Michael for general fieldwork, and to Carly for UrbaNature research/questions
-
--   Angelina tentatively reports to Michael for fieldwork tasks and scheduling (to be updated)
-
--   Laura tentatively reports to Bella for fieldwork tasks and scheduling (to be updated)
-
-**Co-benefits of nature-based solutions for climate resilience and biodiversity:**
-
-*Kayleigh* is a research associate (and recent MSc graduate) working on biodiversity (especially birds) and ecosystem services of the urban forest, alongside our collaborator Dr. Barbara Frei (who works for Environment and Climate Change Canada). She will be doing primarily literature-based work this summer, but is excellent at tree-ID, and a great resource for learning field techniques. Two new team members will join us to work in this area. *Riikka Kinnunen* is a new postdoc who will start in July, and incoming MSc student *Chloe Cull* will arrive in August to begin an MSc with us in September.
-
--   Some of our undergraduate team members may help Kayleigh (or others) out with tasks this summer if needed
-
-**Green Infrastructure and ecosystem services (DesignLifes NSERC Create project):**
-
-*Fatemeh* is a PhD student working on walkability through a lens of urban greening and thermal comfort. She is on maternity leave this summer. Lingshan is a PhD student working on the effect of urban greening (including green space structure and quality) on urban microclimates. Both Fatemeh and Lingshan are co-supervised within Concordia's Next Gen Cities Institute, and are part of other labs in addition to ours. Urban planning undergrad *Niraj* will continue part time in the lab with his meta-analysis on green roofs. Nicole will join us this August to begin an MSc on green infrastructure in September. - Niraj will continue to report to Carly as team lead
-
-**Forest entomology:**
-
-*Noa* is a PhD student co-advised in the Despland lab working on Spongy Moth outbreaks in peri-urban forests (at Oka and Mont St Bruno). She will likely be joined later this summer by Victoria, a Mitacs intern from Vanier college, as well as summer interns in the Despland lab. Lab undergraduates may have opportunities to help Noa in the field this summer and fall.
-
-**What happens in lab meetings?**
+#### What happens in lab meetings?
 
 -   This summer, we will not have our usual weekly lab meetings, but will meet for a lab lunch at Loyola campus on the 3rd Friday of each month (May 20, June 17, Jul 15...) to catch up and hear from all of our various teams. We also often have social activities (lab BBQs, etc. throughout the summer to get everyone together). Social activities are always optional, but lots of fun! - For those of you continuing during the academic year, we have a lab meeting each week with the full team (and sometimes some guests from other labs at Concordia or elsewhere). At lab meetings, we usually do a quick check in to see how everyone is doing, and discuss any issues or announcements. Then, we'll all discuss a paper we've read, or a talk that we've watched, or discuss a professional development topic (like science communication, how to read a paper, best practices for data entry or analysis, etc.). We will decide the topics in advance together. Preparing for lab meeting (for example, reading papers or watching talks) and attending lab meeting counts as part of your work/study hours. You are expected to attend when you can, but fieldwork or other time-sensitive tasks take priority! - Also during the academic year, the students in the lab run a peer-writing-group, where they review and discuss each-others writing. This can be a great activity to join if you want to improve your writing skills.
 
-**What do I do if I have some "down time" (e.g. you're finished what you're working on, or don't have a task for the day/week yet... but still want to work or need to fill your hours?)**
+#### What do I do if I have some "down time" (e.g. you're finished what you're working on, or don't have a task for the day/week yet... but still want to work or need to fill your hours?)
 
 -   First, reach out to your team lead. If they don't have any tasks for you, you can reach out to the broader lab on Zulip to ask if anybody needs some extra help that week. There are often tasks that can use an extra set of hands!
 
@@ -133,7 +105,7 @@ Current lab members are *italicized*, loosely organized by "theme" for the summe
 
             -   https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper
 
-            -   https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b\_5501628
+            -   https://www.huffpost.com/entry/how-to-read-and-understand-a-scientific-paper_b_5501628
 
         -   **Don't worry if it takes you a long time (like, several hours!) to properly and thoroughly read a scientific paper - that's totally normal. You should be reading carefully, and taking notes on pieces you don't understand or you find especially interesting, so that you can follow up later. This is especially true for those of you doing work for credit, or working on a research project**
 
@@ -141,11 +113,11 @@ Current lab members are *italicized*, loosely organized by "theme" for the summe
 
         -   You can also work a shorter week, and "bank" some hours for a long day in the field later, for example.
 
-**I need something to be able to do my work well**
+#### I need something to be able to do my work well
 
 -   If you need resources (more storage space on your computer, access to a specific book or article, a borrowed tablet or laptop, etc.) to be able to work effectively, please talk to Carly. We may be able to arrange something through the lab.
 
-**I have more questions!**
+#### I have more questions!
 
 -   Write all of your questions down for later. If it's a general question about the lab or your projects, you can ask in the "undergraduates" stream of the Zulip once you're set up there. If it's a question about paperwork/payment/hours, you can ask Carly directly (via Zulip direct message, or an email)
 
