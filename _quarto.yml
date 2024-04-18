@@ -11,6 +11,7 @@ website:
   repo-url: https://github.com/zule-lab/quarto-resources
   repo-actions: [edit, issue]
   navbar:
+    logo: imgs/ZULE_logo_white.png
     title: 'ZULE Lab Resources & Policies'
     right:
       - icon: github
