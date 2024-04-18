@@ -23,7 +23,6 @@ We want to know about datasets/resources you have been using, so we can add them
 ## TO-DO
 
 -   add fieldwork guide
--   lab logo to navbar (not currently supported)
 -   lab meeting slides
 -   example metadata + instructions
 -   link to repositories
