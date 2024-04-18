@@ -5,6 +5,7 @@ project:
 
 
 website:
+  title: 'ZULE Lab Resources'
   page-navigation: true
   reader-mode: true
   repo-url: https://github.com/zule-lab/quarto-resources
